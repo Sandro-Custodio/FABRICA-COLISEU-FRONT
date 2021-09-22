@@ -1,0 +1,122 @@
+.conciliacao .box {
+  margin-bottom: 0;
+}
+
+.conciliacao .content {
+  padding-top: 3px;
+}
+
+.conciliacao .box-footer {
+  padding: 7px;
+}
+
+.conciliacao .box-body {
+  padding: 10px !important;
+}
+
+.conciliacao .header {
+  justify-content: start !important;
+}
+
+.conciliacao .header .btn {
+  padding-bottom: 0 !important;
+  margin: auto 0 auto 15px;
+}
+
+.conciliacao .rw-widget-input {
+  box-shadow: unset !important;
+}
+
+.conciliacao .form-group {
+  margin: 0;
+}
+
+.conciliacao .form-control {
+  margin: 2px 0 2px;
+}
+
+.painel-right {
+  background-color: #f5f5f5;
+  padding: 5px;
+}
+
+.painel-right .col-md-2 {
+  padding: 1px;
+}
+
+.painel-right .col-md-3 {
+  padding: 1px;
+}
+
+.painel-right .col-md-4 {
+  padding: 1px;
+}
+
+.painel-right .col-md-5 {
+  padding: 1px;
+}
+
+.painel-right .col-md-6 {
+  padding: 1px;
+}
+
+.painel-right .col-md-8 {
+  padding: 1px;
+}
+
+
+.painel-right .col-md-12 {
+  padding: 1px;
+}
+
+.painel__circuito {
+  display: flex;
+}
+
+.painel-left__label {
+  margin-top: 6px;
+}
+
+.painel-left .col-md-3 {
+  padding: 0 4px;
+}
+
+.painel-left .col-md-4 {
+  padding: 0 4px;
+}
+
+.table-conciliacao .table tr[class] td:nth-last-child(2) {
+  padding: 4px !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.conciliacao .table .active td:last-child {
+  box-shadow: none;
+}
+
+.conciliacao .table .active .menu-table__icon {
+  color: #00ff8a !important
+}
+
+.btn-conciliacao .btn {
+  margin: 0;
+  padding: 0;
+  margin: 1px 0;
+}
+
+[data-state="conciliacao"] {
+  border: hidden !important
+}
+
+.conciliacao .panel {
+  margin-bottom: 0;
+}
+
+.tabela-conciliacao__footer {
+  padding: 5px 5px 8px;
+  background-color: #fff;
+  border-radius: 0 0 4px 4px;
+}

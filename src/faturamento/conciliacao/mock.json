@@ -1,0 +1,85 @@
+{
+  "columns": [
+    { "title": "Provedor", "name": "provedor" },
+    { "title": "Regional", "name": "regional" },
+    { "title": "Agrupador", "name": "agrupador" },
+    { "title": "Fatura", "name": "bill_number" },
+    { "title": "Mês Ref.", "name": "mes_cobranca" },
+    { "title": "Mês de Competência", "name": "competence_month" },
+    { "title": "Vencimento", "name": "deadline_at" },
+    { "title": "R$ Previsto", "name": "previsto" },
+    { "title": "R$ Real", "name": "bill_total" },
+    { "title": "Contestar", "name": "contestar" },
+    { "title": "Pendente LLM", "name": "pendente_llm" },
+    { "title": "Aprovado", "name": "aprovado" },
+    { "title": "Data Geração Fatura", "name": "process_end" },
+    { "title": "Status", "name": "status" },
+    { "title": "...", "name": "actions" }
+  ],
+  "columnsPainelIncosistencias": [
+    { "title": "Circuito", "name": "circuito" },
+    { "title": "Serviço", "name": "servico" },
+    { "title": "Classificação", "name": "classificacao" },
+    { "title": "Descrição", "name": "descricao" },
+    { "title": "R$ Fatura", "name": "base_fatura" },
+    { "title": "R$ Base Física", "name": "base_fisica" },
+    { "title": "R$ Apontado", "name": "apontado" },
+    { "title": "R$ Contestar", "name": "contestar" },
+    { "title": "Mês Prev. Tx Inst", "name": "mes_previsto_tx_inst" },
+    { "title": "Historico Tx Inst", "name": "historico_tx_inst" },
+    { "title": "Ação", "name": "actions" },
+    { "title": "Justificativa", "name": "justificativa" }
+  ],
+  "conciliacaoColumnWidths": [
+    { "columnName": "provedor", "width": 100 },
+    { "columnName": "regional", "width": 100 },
+    { "columnName": "agrupador", "width": 100 },
+    { "columnName": "bill_number", "width": 100 },
+    { "columnName": "mes_cobranca", "width": 100 },
+    { "columnName": "competence_month", "width": 100 },
+    { "columnName": "deadline_at", "width": 100 },
+    { "columnName": "previsto", "width": 100 },
+    { "columnName": "bill_total", "width": 120 },
+    { "columnName": "contestar", "width": 100 },
+    { "columnName": "pendente_llm", "width": 100 },
+    { "columnName": "aprovado", "width": 100 },
+    { "columnName": "process_end", "width": 100 },
+    { "columnName": "status", "width": 100 },
+    { "columnName": "actions", "width": 120 }
+  ],
+  "columnsPainel": [
+    { "title": "Seq.", "name": "bill_dif_type_id" },
+    { "title": "Inconsistência", "name": "inconsistencia" },
+    { "title": "Circuitos", "name": "qtd_circuitos" },
+    { "title": "Itens de fatura", "name": "qtd_dd_lines" },
+    { "title": "Apontado", "name": "apontado" },
+    { "title": "Contestar", "name": "contestar" },
+    { "title": "Devido", "name": "devido" },
+    { "title": "Pendente LLM", "name": "pendente_llm" },
+    { "title": "Ações", "name": "actions" }
+  ],
+  "columnsWidthPainel": [
+    { "columnName": "bill_dif_type_id", "width": 60 },
+    {
+      "columnName": "inconsistencia",
+      "width": 357
+    },
+    {
+      "columnName": "qtd_circuitos",
+      "width": 90
+    },
+    { "columnName": "qtd_dd_lines", "width": 124 },
+    { "columnName": "apontado", "width": 92 },
+    { "columnName": "contestar", "width": 110 },
+    { "columnName": "devido", "width": 114 },
+    { "columnName": "pendente_llm", "width": 100 },
+    { "columnName": "description", "width": 100 },
+    { "columnName": "actions", "width": 100 }
+  ],
+  "select": [
+    { "name": "txt_mes_inicio", "title": "Mês início" },
+    { "name": "txt_mes_fim", "title": "Mês fim" },
+    { "name": "txt_mes_ref", "title": "Mês de Referência" },
+    { "name": "txt_mes_comp", "title": "Mês de Competência" }
+  ]
+}

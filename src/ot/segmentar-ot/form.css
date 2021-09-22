@@ -1,0 +1,13 @@
+.segmentar-ot-form .velocidade-container {
+  display: inline-flex;
+  width: 100%;
+}
+
+.segmentar-ot-form .qtd-input {
+  width: 30px;
+}
+
+.segmentar-ot-form .velocidade-span {
+  min-width: 60px;
+  margin: 0 5px;
+}

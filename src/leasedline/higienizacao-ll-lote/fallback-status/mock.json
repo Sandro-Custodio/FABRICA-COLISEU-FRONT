@@ -1,0 +1,48 @@
+{
+  "columns": [
+    { "name": "message", "title": "Mensagem Importação" },
+    { "name": "ll_guid", "title": "LL GUID" },
+    { "name": "circuito_id", "title": "Circuito ID" },
+    { "name": "provedor", "title": "Provedor" },
+    { "name": "data_desativacao", "title": "Data desativação" },
+    { "name": "data_ativacao", "title": "Data ativação" },
+    { "name": "Observacao", "title": "Observação" }
+  ],
+  "column_upload": [
+    { "name": "name", "title": "Nome" },
+    { "name": "data", "title": "Data" },
+    { "name": "size", "title": "Tamanho" }
+  ],
+  "select_status": [
+    {
+      "id": "2",
+      "description": "Atualiza Status De:Ativada Para: Link Solicitado ao Provedor",
+      "status": "Ativada"
+    },
+    {
+      "id": "3",
+      "description": "Atualiza Status Circuitos de: Em análise de campo Para: Ativada",
+      "status": "Em Análise de Campo"
+    },
+    {
+      "id": "7",
+      "description": "Atualiza Status Circuitos de: Link Solicitado ao Provedor Para: Cancelada",
+      "status": "Link Solicitado ao Provedor"
+    },
+    {
+      "id": "9",
+      "description": "Atualiza Status Circuitos de: Cancelada Para: Ativada",
+      "status": "Cancelada"
+    },
+    {
+      "id": "11",
+      "description": "Atualiza Status Circuitos de: Agendado Para: Link Solicitado ao Provedor",
+      "status": "Agendado"
+    },
+    {
+      "id": "12",
+      "description": "Atualiza Status Circuitos de: Entregue Para: Link Solicitado ao Provedor",
+      "status": "Entregue"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+.list-dropzone {
+  border-radius: 3px;
+  border: #bababa;
+  border-style: dashed;
+  text-align: center;
+  padding: 0;
+  margin: 3px auto;
+  border-width: 2px;
+  font-size: 14px;
+  background-color: rgb(244, 244, 245);
+  color: #babaca;
+}
+
+.list-dropzone p {
+  margin: 0;
+}
+
+.react-autosuggest__container {
+  position: relative;
+}
+
+.react-autosuggest__input {
+  width: 100%;
+  height: 30px;
+  padding: 5px 10px;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  border: 1px solid #d2d6de;
+  line-height: 1.5;
+  /* border-radius: 4px; */
+}
+
+.react-autosuggest__input--focused {
+  outline: none;
+}
+
+.react-autosuggest__input--open {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.react-autosuggest__suggestions-container {
+  display: none;
+}
+
+.react-autosuggest__suggestions-container--open {
+  display: block;
+  position: absolute;
+  top: 31px;
+  width: 280px;
+  border: 1px solid #aaa;
+  background-color: #fff;
+  font-family: Helvetica, sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  z-index: 2;
+  overflow-y: auto;
+  max-height: 250px;
+}
+
+.react-autosuggest__suggestions-list {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.react-autosuggest__suggestion {
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.react-autosuggest__suggestion--highlighted {
+  background-color: #ddd;
+}
+
+.licceu-fo.box-body {
+  height: 60vh !important;
+}

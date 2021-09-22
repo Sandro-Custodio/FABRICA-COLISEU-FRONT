@@ -1,0 +1,20 @@
+[
+  { "name": "vendor_name", "title": "Fabricante" },
+  { "name": "end_source", "title": "Estação A" },
+  { "name": "end_destination", "title": "Estação B" },
+  { "name": "sigla_2g_source", "title": "Fabricante" },
+  { "name": "sigla_2g_source", "title": "Sigla 2G A" },
+  { "name": "sigla_2g_destination", "title": "Sigla 2G B" },
+  { "name": "current_capacity", "title": "Capacidade Atual (Mbps)" },
+  { "name": "total_capacity", "title": "Capacidade Total (Mbps)" },
+  { "name": "banda_media_eth", "title": "B. Média Atual (com Eth)" },
+  { "name": "banda_media_eth_proj", "title": "B. Média Projet. (com Eth)" },
+  { "name": "banda_media_all_end_id", "title": "B. Média Atual (todos EndID)" },
+  {
+    "name": "B. Média Proj. (todos EndID)",
+    "title": "banda_media_all_end_id_proj"
+  },
+  { "name": "n_circuitos_ethernet", "title": "Nº Circuito IP" },
+  { "name": "cp_circuitos_tdm", "title": "Cap. Circuito TDM(Mbps)" },
+  { "name": "num_circuitos", "title": "Total Circuitos" }
+]

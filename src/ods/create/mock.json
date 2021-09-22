@@ -1,0 +1,42 @@
+{
+  "columns": [
+    { "name": "ot_code", "title": "Código " },
+    { "name": "circuito_id", "title": "Circuito" },
+    { "name": "vendor_name", "title": "Provedor" },
+    { "name": "status_description", "title": "Status" },
+    { "name": "data_ativacao", "title": "Ativada em" },
+    { "name": "contrato", "title": "Contato" },
+    { "name": "vigencia", "title": "Vigência" },
+    { "name": "taxa_ins_s_imp", "title": "Taxa de Instalação(s/ imp.)" },
+    { "name": "val_link_s_imp", "title": "Valor Mensal(s/imp.)" },
+    { "name": "degrau", "title": "Degrau" }
+  ],
+  "columnWidths": [
+    { "columnName": "ot_code", "width": 100 },
+    { "columnName": "circuito_id", "width": 100 },
+    { "columnName": "vendor_name", "width": 100 },
+    { "columnName": "status_description", "width": 100 },
+    { "columnName": "data_ativacao", "width": 100 },
+    { "columnName": "contrato", "width": 100 },
+    { "columnName": "vigencia", "width": 100 },
+    { "columnName": "taxa_ins_s_imp", "width": 100 },
+    { "columnName": "val_link_s_imp", "width": 100 },
+    { "columnName": "degrau", "width": 100 }
+  ],
+  "select_values": {
+    "rede": [
+      { "value": "MÓVEL", "description": "MÓVEL" },
+      { "value": "FIXA", "description": "FIXA" }
+    ],
+    "segmento_mercado": [
+      { "value": "LL", "description": "LL" },
+      { "value": "LM", "description": "LM" }
+    ],
+    "study_origin": [
+      { "value": "Discovery", "description": "Discovery" },
+      { "value": "Rede", "description": "Rede" },
+      { "value": "Wholesale", "description": "Wholesale" },
+      { "value": "Zero LL", "description": "Zero LL" }
+    ]
+  }
+}

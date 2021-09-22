@@ -1,0 +1,12 @@
+[
+    {
+      "id": 1,
+      "title": "LL_GUID",
+      "name": "LL_GUID"
+    },
+    {
+      "id": 2,
+      "title": "CIRCUITO_ID",
+      "name": "CIRCUITO_ID"
+    }
+  ]

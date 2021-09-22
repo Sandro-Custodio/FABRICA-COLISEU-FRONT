@@ -1,0 +1,103 @@
+{
+  "transporte": [
+    {
+      "value": "LOS",
+      "text": "LOS"
+    },
+    {
+      "value": "LD",
+      "text": "LD"
+    },
+    {
+      "value": "DATASHEET",
+      "text": "DATASHEET"
+    },
+    {
+      "value": "PPI",
+      "text": "PPI"
+    },
+    {
+      "value": "TSS",
+      "text": "TSS"
+    },
+    {
+      "value": "PDI",
+      "text": "PDI"
+    },
+    {
+      "value": "BAY FACE",
+      "text": "BAY FACE"
+    },
+    {
+      "value": "PROJETO DE SINCRONISMO",
+      "text": "PROJETO DE SINCRONISMO"
+    },
+    {
+      "value": "PROJETO DE GERENCIA",
+      "text": "PROJETO DE GERENCIA"
+    },
+    {
+      "value": "SARF",
+      "text": "SARF"
+    },
+    {
+      "value": "RI",
+      "text": "RI"
+    },
+    {
+      "value": "DIAGRAMA UNIFILAR",
+      "text": "DIAGRAMA UNIFILAR"
+    },
+    {
+      "value": "TOPOLOGIA",
+      "text": "TOPOLOGIA"
+    },
+    {
+      "value": "BOQ",
+      "text": "BOQ"
+    },
+
+    {
+      "value": "SCI",
+      "text": "SCI"
+    }
+  ],
+  "acesso": [
+    {
+      "value": "TSSR",
+      "text": "TSSR"
+    },
+    {
+      "value": "RF SHEET",
+      "text": "RF SHEET"
+    },
+    {
+      "value": "CDD",
+      "text": "CDD"
+    },
+    {
+      "value": "INITIAL TUNNING",
+      "text": "INITIAL TUNNING"
+    },
+    {
+      "value": "TND",
+      "text": "TND"
+    },
+    {
+      "value": "BOQ",
+      "text": "BOQ"
+    },
+    {
+      "value": "BOQ ANTENAS",
+      "text": "BOQ ANTENAS"
+    },
+    {
+      "value": "SPP PROPOSTA TECNICA",
+      "text": "SPP PROPOSTA TECNICA"
+    },
+    {
+      "value": "SPP PROJETO EXECUTIVO",
+      "text": "SPP PROJETO EXECUTIVO"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.carga-hub-btn {
+  margin-bottom: 10px;
+  display: inline-flex;
+}
+
+.dropzone {
+  margin-top: 0;
+}
+
+.carga-hub-modal .modal-body {
+  height: 19vh;
+}

@@ -1,0 +1,16 @@
+/* .content-wrapper {
+    background-color: #fff !important;
+} */
+
+.not-found {
+    padding: 15px;
+}
+
+.cts-overlay {
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}

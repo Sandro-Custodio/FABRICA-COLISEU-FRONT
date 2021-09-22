@@ -1,0 +1,64 @@
+{
+  "tipos": {
+    "DR_COX1B1": [
+      {
+        "id": "Qualidade/Descongestionamento",
+        "text": "Qualidade/Descongestionamento"
+      },
+      {
+        "id": "Interconexão",
+        "text": "Interconexão"
+      },
+      {
+        "id": "Acesso Geral de Sites",
+        "text": "Geral de Sites"
+      },
+      {
+        "id": "Special Projects",
+        "text": "Especial Projects"
+      },
+      {
+        "id": "Remanejamento",
+        "text": "Remanejamentos"
+      },
+      {
+        "id": "Eficiencia e migrações",
+        "text": "Eficiencia e migrações"
+      },
+      {
+        "id": "TI_Parceiros_Lojas_Wi-Fi",
+        "text": "TI_Parceiros_Lojas_Wi-Fi"
+      }
+    ],
+    "DR_COX1A1": [
+      {
+        "id": "Special Projects",
+        "text": "Special Projects"
+      },
+      {
+        "id": "Acesso Geral de Sites",
+        "text": "Acesso Geral de Sites"
+      },
+      {
+        "id": "Acesso Ampliações",
+        "text": "Acesso Ampliações"
+      },
+      {
+        "id": "Ampliações de Iub",
+        "text": "Ampliações de Iub"
+      },
+      {
+        "id": "Zero Leased Line",
+        "text": "Zero Leased Line"
+      }
+    ]
+  },
+  "url_list_download": {
+    "DR_COX1A1": "carga/buscar-versoes/ACESSO",
+    "DR_COX1B1": "carga/buscar-versoes/TRANSPORTE"
+  },
+  "tipoArquivo": {
+    "DR_COX1A1": "ACESSO",
+    "DR_COX1B1": "TRANSPORTE"
+  }
+}

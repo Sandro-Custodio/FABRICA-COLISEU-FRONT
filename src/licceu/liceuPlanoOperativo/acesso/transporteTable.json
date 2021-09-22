@@ -1,0 +1,46 @@
+[
+  { "name": "txE2eId", "title": "TX E2E ID" },
+  { "name": "txTrechoId", "title": "TX Trecho ID" },
+  { "name": "solucao", "title": "Solução" },
+  { "name": "projeto", "title": "Projeto" },
+  { "name": "regional", "title": "Regional" },
+  { "name": "uf", "title": "Uf" },
+  { "name": "ibge", "title": "Ibge" },
+  { "name": "cidade", "title": "Cidade" },
+  { "name": "endId", "title": "End ID Site Atendido" },
+  { "name": "siteAtendido", "title": "Site Atendido" },
+  { "name": "tecnologia", "title": "Tecnologia" },
+  { "name": "banda", "title": "Banda" },
+  { "name": "siteZ", "title": "Site Filiação (Site Z)" },
+  { "name": "endIdZ", "title": "END ID (Z)" },
+  { "name": "ot", "title": "Ot" },
+  { "name": "bandaSolicitada", "title": "Banda Solicitada na OT (Mbps)" },
+  { "name": "bandaAtendida", "title": "Banda Atentida (Mbps)" },
+  { "name": "bandaProjetada", "title": "Banda projetada (Mbps)" },
+  {
+    "name": "tecnologiaAtendida",
+    "title": "Tecnologia Atendida (IP/ ATM/TDM)"
+  },
+  { "name": "txDetalhado", "title": "Solução Meio de TX Detalhado" },
+  { "name": "txSimplificado", "title": "Solução Meio de TX Simplificado" },
+  { "name": "informacaoQuadro", "title": "Informação Quadro Resumo" },
+  { "name": "txTrecho", "title": "Solução Meio TX do Trecho" },
+  { "name": "vendorMw", "title": "Vendor MW/Conexão" },
+  { "name": "sitePontaA", "title": "Site Ponta A" },
+  { "name": "sitePontaB", "title": "Site Ponta B" },
+  { "name": "endIdA", "title": "END ID A" },
+  { "name": "endIdB", "title": "END ID B" },
+  { "name": "endTrechoId", "title": "END Trecho ID" },
+  { "name": "rollout", "title": "Classificação do Processo De Rollout" },
+  { "name": "chaveOt", "title": "Chave/OT" },
+  {
+    "name": "status",
+    "title": "Em ampliação / Necessário ampliar / Necessário ativar"
+  },
+  { "name": "hubFoLl", "title": "Hub FO/LL" },
+  { "name": "novoHubFoLl", "title": "Novo Hub FO/LL" },
+  { "name": "foRedeMw", "title": "Ponto de FO que favorece a rede MW" },
+  { "name": "codOrca", "title": "Código Orçamentário" },
+
+  { "name": "observacao", "title": "Observação" }
+]

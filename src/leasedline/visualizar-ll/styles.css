@@ -1,0 +1,6 @@
+.form-control::placeholder{
+  color: black !important;
+}
+.box_valores_ll {
+  background-color: #fcfcfc;
+}

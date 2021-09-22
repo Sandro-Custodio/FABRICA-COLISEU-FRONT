@@ -1,0 +1,8 @@
+/* MOVER PRIMEIRA COLUNA DO GRID */
+.solicitarCancelamentoOtList table.table tbody tr td div {
+  position: static !important;
+}
+
+.solicitarCancelamentoOtList tbody>tr>td[colspan="1"]:nth-child(1) {
+  background-color: inherit !important;
+}

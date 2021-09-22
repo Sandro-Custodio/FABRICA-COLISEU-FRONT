@@ -1,0 +1,114 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "Código SD",
+      "name": "code"
+    },
+    {
+      "id": 2,
+      "title": "Abertura SD",
+      "name": "abertura_sd"
+    },
+    {
+      "id": 3,
+      "title": "Status SD",
+      "name": "statussddesc"
+    },
+    {
+      "id": 4,
+      "title": "Código OD",
+      "name": "odcode"
+    },
+    {
+      "id": 5,
+      "title": "Abertura OD",
+      "name": "abertura_od"
+    },
+    {
+      "id": 6,
+      "title": "Status OD",
+      "name": "statusoddesc"
+    },
+    {
+      "id": 7,
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "id": 8,
+      "title": "Qtd. Circuitos",
+      "name": "circuitos"
+    },
+    {
+      "id": 9,
+      "title": "Valor Mensal (c/ imp.)",
+      "name": "valor"
+    },
+    {
+      "id": 10,
+      "title": "Total Multa",
+      "name": "multa"
+    },
+    {
+      "id": 11,
+      "title": "Total Savings",
+      "name": "saving"
+    },
+    {
+      "id": 12,
+      "title": "Dt. Envio E-mail",
+      "name": "delivered_at"
+    }
+  ],
+  "columnWidths": [
+    {
+      "columnName": "code",
+      "width": 100
+    },
+    {
+      "columnName": "abertura_sd",
+      "width": 100
+    },
+    {
+      "columnName": "statussddesc",
+      "width": 100
+    },
+    {
+      "columnName": "odcode",
+      "width": 100
+    },
+    {
+      "columnName": "abertura_od",
+      "width": 100
+    },
+    {
+      "columnName": "statusoddesc",
+      "width": 100
+    },
+    {
+      "columnName": "provedor",
+      "width": 100
+    },
+    {
+      "columnName": "circuitos",
+      "width": 100
+    },
+    {
+      "columnName": "valor",
+      "width": 100
+    },
+    {
+      "columnName": "multa",
+      "width": 100
+    },
+    {
+      "columnName": "saving",
+      "width": 100
+    },
+    {
+      "columnName": "delivered_at",
+      "width": 100
+    }
+  ]
+}

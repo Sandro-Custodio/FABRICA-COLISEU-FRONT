@@ -1,0 +1,37 @@
+.sd-list .panel-heading {
+  justify-content: space-between;
+}
+
+.sd-list .row-eq-height {
+  display: flex;
+}
+
+.sd-list .row-eq-height .box {
+  height: 95%;
+}
+
+.sd-list .box-success .box-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: auto;
+}
+
+.sd-list .download-upload {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.sd-list .checkbox {
+  display: flex;
+  flex-direction: row;
+  padding-left: 55px;
+}
+
+.sd-list .checkbox label {
+  padding-left: 0;
+}
+
+.sd-list .visualizar-table .table-responsive {
+  height: 40vh !important;
+}

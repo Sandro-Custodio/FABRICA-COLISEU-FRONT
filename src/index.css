@@ -1,0 +1,18 @@
+/* ################## EVT ##################*/
+
+#envio-email-evt div.box-body {
+  padding-bottom: 0;
+}
+
+#envio-email-evt div.box-body p {
+  margin-bottom: 12px;
+}
+
+#envio-email-evt div.box {
+  margin-bottom: 0;
+}
+
+.description {
+  color: "#222";
+  margin-top: 5;
+}

@@ -1,0 +1,64 @@
+{
+  "extends": ["airbnb", "prettier", "prettier/react"],
+  "plugins": ["react", "prettier", "react-hooks"],
+  "env": {
+    "node": true,
+    "es6": true,
+    "browser": true
+  },
+  "parser": "babel-eslint",
+  "rules": {
+    "allowTernary": true,
+    "react-hooks/rules-of-hooks": "error",
+    "react-hooks/exhaustive-deps": "warn",
+    "no-underscore-dangle": [2, {
+      "allow": ["__REDUX_DEVTOOLS_EXTENSION__"]
+    }],
+    "no-shadow": "off",
+    "camelcase": [0, {
+      "properties": "never"
+    }],
+    "linebreak-style": 0,
+    "react/jsx-filename-extension": [1, {
+      "extensions": [".js", ".jsx"]
+    }],
+    "prettier/prettier": [
+      "error",
+      {
+        "singleQuote": false,
+        "parser": "flow",
+        "endOfLine": "auto"
+      }
+    ],
+    "no-use-before-define": ["error", {
+      "variables": false
+    }],
+    "no-console": "off",
+    "react/prop-types": [0],
+    "jsx-a11y/label-has-associated-control": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "jsx-a11y/label-has-for": [
+      "error",
+      {
+        "required": {
+          "some": ["nesting", "id"]
+        }
+      }
+    ],
+    "import/prefer-default-export": "off",
+    "react/no-array-index-key": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "paths": ["src"]
+      }
+    }
+  }
+}

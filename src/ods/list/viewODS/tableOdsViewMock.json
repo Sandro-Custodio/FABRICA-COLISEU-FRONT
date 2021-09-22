@@ -1,0 +1,172 @@
+{
+  "circuito_provedor": [
+    {
+      "ll_guid": "DDDDDDDDDD0000000000000000011151",
+      "circuito_id": "PAE 0472571",
+      "taxa_ins_s_imp": 0.0,
+      "val_link_s_imp": 649.0,
+      "data_solicitacao": "2009-09-09",
+      "data_aceite": "2006-01-03",
+      "id": 40,
+      "updated_at": "2018-10-15",
+      "cancel_order_user_id": 26629,
+      "cancel_order_at": "2018-10-15",
+      "cancel_order_remarks": null,
+      "cancel_submit_at": null,
+      "cancel_submit_remarks": null,
+      "cancel_end_at": null,
+      "cancel_end_remarks": null,
+      "data_rev_ativacao": null,
+      "val_link_c_imp_a": 673.59,
+      "taxa_ins_c_imp_a": 0.0,
+      "val_link_c_imp_b": null,
+      "taxa_ins_c_imp_b": 0.0,
+      "month_with_project": null,
+      "ref_vigencia_at": "2015-07-01",
+      "circuito_id_clean": "PAE0472571",
+      "data_higienizacao": null,
+      "od": {
+        "id": 29275,
+        "code": "OD-COP-2018-00002",
+        "project_id": 808,
+        "remarks": null,
+        "order_end_at": null,
+        "end_user_id": null
+      },
+      "status": {
+        "id": 44,
+        "description": "Solicitada Desativação"
+      },
+      "vendor": {
+        "id": 5,
+        "name": "BRASIL TELECOM"
+      }
+    },
+    {
+      "ll_guid": "52997",
+      "circuito_id": "RCERCECPL027051",
+      "taxa_ins_s_imp": 0.0,
+      "val_link_s_imp": 0.0,
+      "data_solicitacao": "2009-09-17",
+      "data_aceite": "2010-09-13",
+      "id": 52997,
+      "updated_at": "2018-10-15",
+      "cancel_order_user_id": 26629,
+      "cancel_order_at": "2018-10-15",
+      "cancel_order_remarks": null,
+      "cancel_submit_at": null,
+      "cancel_submit_remarks": null,
+      "cancel_end_at": null,
+      "cancel_end_remarks": null,
+      "data_rev_ativacao": null,
+      "val_link_c_imp_a": 0.0,
+      "taxa_ins_c_imp_a": 0.0,
+      "val_link_c_imp_b": 0.0,
+      "taxa_ins_c_imp_b": 0.0,
+      "month_with_project": false,
+      "ref_vigencia_at": "2010-09-13",
+      "circuito_id_clean": "RCERCECPL027051",
+      "data_higienizacao": null,
+      "od": {
+        "id": 29275,
+        "code": "OD-COP-2018-00002",
+        "project_id": 808,
+        "remarks": null,
+        "order_end_at": null,
+        "end_user_id": null
+      },
+      "status": {
+        "id": 44,
+        "description": "Solicitada Desativação"
+      },
+      "vendor": {
+        "id": 20,
+        "name": "INTELIG"
+      }
+    },
+    {
+      "ll_guid": "50735",
+      "circuito_id": "TIM3G1932",
+      "taxa_ins_s_imp": 3500.0,
+      "val_link_s_imp": 2500.0,
+      "data_solicitacao": "2010-04-09",
+      "data_aceite": "2010-08-05",
+      "id": 50735,
+      "updated_at": "2018-10-15",
+      "cancel_order_user_id": 26629,
+      "cancel_order_at": "2018-10-15",
+      "cancel_order_remarks": null,
+      "cancel_submit_at": null,
+      "cancel_submit_remarks": null,
+      "cancel_end_at": null,
+      "cancel_end_remarks": null,
+      "data_rev_ativacao": null,
+      "val_link_c_imp_a": 2594.7,
+      "taxa_ins_c_imp_a": 3632.58,
+      "val_link_c_imp_b": null,
+      "taxa_ins_c_imp_b": null,
+      "month_with_project": null,
+      "ref_vigencia_at": "2010-08-05",
+      "circuito_id_clean": "TIM3G1932",
+      "data_higienizacao": null,
+      "od": {
+        "id": 29275,
+        "code": "OD-COP-2018-00002",
+        "project_id": 808,
+        "remarks": null,
+        "order_end_at": null,
+        "end_user_id": null
+      },
+      "status": {
+        "id": 44,
+        "description": "Solicitada Desativação"
+      },
+      "vendor": {
+        "id": 13,
+        "name": "ELETROPAULO"
+      }
+    },
+    {
+      "ll_guid": "48007",
+      "circuito_id": "4375",
+      "taxa_ins_s_imp": 0.0,
+      "val_link_s_imp": 852.1,
+      "data_solicitacao": "2010-02-03",
+      "data_aceite": "2010-11-05",
+      "id": 48007,
+      "updated_at": "2018-10-15",
+      "cancel_order_user_id": 26629,
+      "cancel_order_at": "2018-10-15",
+      "cancel_order_remarks": null,
+      "cancel_submit_at": null,
+      "cancel_submit_remarks": null,
+      "cancel_end_at": "2018-11-14",
+      "cancel_end_remarks": null,
+      "data_rev_ativacao": null,
+      "val_link_c_imp_a": 884.38,
+      "taxa_ins_c_imp_a": 0.0,
+      "val_link_c_imp_b": null,
+      "taxa_ins_c_imp_b": null,
+      "month_with_project": false,
+      "ref_vigencia_at": "2010-11-05",
+      "circuito_id_clean": "4375",
+      "data_higienizacao": null,
+      "od": {
+        "id": 29275,
+        "code": "OD-COP-2018-00002",
+        "project_id": 808,
+        "remarks": null,
+        "order_end_at": null,
+        "end_user_id": null
+      },
+      "status": {
+        "id": 45,
+        "description": "Em Desativação"
+      },
+      "vendor": {
+        "id": 7,
+        "name": "AESCOM"
+      }
+    }
+  ]
+}

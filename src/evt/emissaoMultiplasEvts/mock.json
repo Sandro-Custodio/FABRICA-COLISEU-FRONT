@@ -1,0 +1,73 @@
+{
+  "columns": [
+    { "title": "Código OT", "name": "codOt" },
+    { "title": "Código Seg.", "name": "codSeg" },
+    { "title": "Regional A", "name": "regA" },
+    { "title": "Ponta A", "name": "pontaA" },
+    { "title": "Regional B", "name": "regB" },
+    { "title": "Ponta B", "name": "pontaB" },
+    { "title": "Solução", "name": "solucao" },
+    { "title": "Situação", "name": "situacao" },
+    { "title": "Links", "name": "links" },
+    { "title": "Velocidade", "name": "velocidade" }
+  ],
+  "columnsPedidoEvt": [
+    { "title": "Provedor", "name": "provedor" },
+    { "title": "Contrato", "name": "contrato" },
+    { "title": "Garantia de Receita", "name": "garantiaReceita" },
+    { "title": "Fidelização", "name": "fidelizacao" },
+    { "title": "Tipo", "name": "tipo" },
+    { "title": "Data Pedido", "name": "dataPedido" },
+    { "title": " ", "name": "upload" }
+  ],
+  "columnsEmail": [
+    { "title": "Destinatário", "name": "destinatario" },
+    { "title": "Contato", "name": "contato" },
+    { "title": "Email", "name": "contact_mail" }
+  ],
+  "columnsUpload": [
+    { "title": "OT", "name": "ot" },
+    { "title": "Segmento", "name": "segmento" },
+    { "title": "Evt", "name": "evt" },
+    { "title": "Data Pedido", "name": "dataPedido" },
+    { "title": "Data Limite", "name": "dataLimite" },
+    { "title": "Provedor", "name": "provedor" },
+    { "title": "Status", "name": "status" },
+    { "title": "Data Proposta", "name": "dataProposta" },
+    { "title": "Validade", "name": "validade" },
+    { "title": "Prazo Contratação", "name": "prazoContratacao" },
+    { "title": "Prazo Ativação", "name": "prazoAtivacao" },
+    { "title": "Custo Mensal", "name": "custoMensal" },
+    { "title": "Custo Instalação", "name": "custoInst" },
+    { "title": "Qtd", "name": "qtd" },
+    { "title": "Mens. com imposto ", "name": "mensImp" },
+    { "title": "Ins. com imposto", "name": "insImp" },
+    { "title": "PE - Mensal", "name": "peMensal" },
+    { "title": "PE - Instalação", "name": "peInst" },
+    { "title": "Data Aprovação", "name": "dataAprov" },
+    { "title": "Previsão Ativ", "name": "prevAtiv" },
+    { "title": "Protocolo", "name": "protocolo" },
+    { "title": "Degrau", "name": "degrau" },
+    { "title": "Agrupador A", "name": "agrupadorA" },
+    { "title": "Agrupador B", "name": "agrupadorB" }
+  ],
+  "fidelizacaoType": [
+    { "text": "0", "value": 0 },
+    { "text": "1 mes", "value": 1 },
+    { "text": "3 meses", "value": 3 },
+    { "text": "4 meses", "value": 4 },
+    { "text": "5 meses", "value": 5 },
+    { "text": "6 meses", "value": 6 },
+    { "text": "7 meses", "value": 7 },
+    { "text": "8 meses", "value": 8 },
+    { "text": "9 meses", "value": 9 },
+    { "text": "10 meses", "value": 10 },
+    { "text": "11 meses", "value": 11 },
+    { "text": "12 meses", "value": 12 },
+    { "text": "24 meses", "value": 24 },
+    { "text": "36 meses", "value": 36 },
+    { "text": "48 meses", "value": 48 },
+    { "text": "60 meses", "value": 60 },
+    { "text": "84 meses", "value": 84 }
+  ]
+}

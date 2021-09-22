@@ -1,0 +1,255 @@
+/* ##################   TABLE   ################## */
+.table-responsive tr:nth-child(even) {
+  background: rgb(238, 238, 238);
+}
+
+.table-responsive tr:nth-child(odd) {
+  background: #ffffff;
+}
+
+.table-responsive tr td span {
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.table-responsive tr.active {
+  -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.table-responsive tr.active td {
+  white-space: normal !important;
+  -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+  background-color: rgb(173, 204, 219) !important;
+  /* color: beige !important; */
+}
+
+.table-responsive th span {
+  font-weight: 600;
+  font-size: 10px;
+  color: rgb(56, 56, 56);
+  text-transform: uppercase;
+}
+
+.table-responsive tr td {
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.table-responsive tr {
+  height: 10px;
+  padding: 0px;
+  margin: 0px;
+}
+
+.table-actions {
+  width: 150px;
+}
+
+td {
+  border: dotted 0.6px #ddd !important;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  -webkit-border-radius: 0px;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 0px;
+  border-radius: 0px;
+  background: rgb(243, 63, 63);
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+
+::-webkit-scrollbar-thumb:window-inactive {
+  background: rgba(42, 42, 42, 0.4);
+}
+
+.skin-black .main-header .navbar > .sidebar-toggle-icon-white {
+  color: #fff;
+  border: none;
+}
+
+.sidebar-menu > li > div.__react_component_tooltip {
+  display: none !important;
+}
+
+.sidebar-collapse .sidebar-menu > li > div.__react_component_tooltip {
+  display: flex !important;
+}
+
+.logo-lg img,
+.logo-mini img {
+  padding-bottom: 4px;
+}
+
+.modal-content {
+  border-radius: 4px;
+}
+
+.modal-header h5 {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: inherit;
+  width: 90%;
+}
+
+.modal-header .close {
+  font-size: 30px;
+}
+
+.modal-dialog {
+  margin-top: 30px;
+}
+
+@media (min-width: 990px) {
+  .modal-lg {
+    width: 95%;
+    position: relative;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn.active:focus {
+  outline-color: #dbdbdb;
+  box-shadow: none;
+}
+
+textarea {
+  resize: none;
+  width: 100%;
+}
+
+.skin-black .wrapper {
+  background-color: rgb(235, 235, 235) !important;
+  min-height: 100vh !important;
+  margin: 0 auto;
+  padding: 0 auto;
+  width: 100vw !important;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-y: auto !important;
+}
+
+.main {
+  margin-top: 50px;
+  overflow-y: scroll !important;
+  min-height: 100vh;
+}
+
+.content-wrapper {
+  background-color: inherit !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.sidebar-menu {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  height: 100vh;
+}
+
+.main-header {
+  position: fixed;
+  width: 100%;
+}
+
+.table-responsive {
+  height: 70vh !important;
+}
+
+.formatInputPlaceholder .form-control::placeholder {
+  color: #000;
+  opacity: 1;
+  /* Firefox */
+}
+
+.div-menu-listar-ot {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-lg.btn-link.filtro-btn.pull-left {
+  margin-left: 23px;
+}
+
+.btn-awesome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-awesome:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.btn-awesome i {
+  padding-right: 5px;
+}
+
+.content__color-nav {
+  width: 50px;
+}
+
+.content__color {
+  margin: 18px 10px 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 50px;
+  height: 10px;
+}
+
+.content__color-item {
+  height: 15px;
+  width: 15px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: solid #fff 1px;
+}
+
+.content__color-item--black {
+  background-color: #222d32;
+}
+
+.content__color-item--default {
+  background-color: #004691;
+}
+
+.content__color-item--red {
+  background-color: #fc4c4c;
+}
+
+.dropzone {
+  border-radius: 3px;
+  border: #babaca;
+  border-style: dashed;
+  text-align: center;
+  padding: 0;
+  margin: 0 auto;
+  border-width: 2px;
+  font-size: 20px;
+  background-color: rgb(244, 244, 245);
+  margin-top: 7px;
+  color: #babaca;
+  margin-bottom: 10px;
+}

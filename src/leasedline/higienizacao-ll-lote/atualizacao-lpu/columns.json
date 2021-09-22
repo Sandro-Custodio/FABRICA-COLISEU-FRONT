@@ -1,0 +1,61 @@
+{
+  "columns": [
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Circuito ID",
+      "name": "circuito_id"
+    },
+    {
+      "title": "LPU",
+      "name": "lpu"
+    },
+    {
+      "title": "LPU_GUID",
+      "name": "lpu_guid"
+    },
+    {
+      "title": "Garantia Receita",
+      "name": "garantia_receita"
+    },
+    {
+      "title": "Tipo Reajuste",
+      "name": "tipo_reajuste"
+    }
+  ],
+
+  "columnsAssociacao": [
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "LPU_GUID",
+      "name": "lpu_guid"
+    }
+  ],
+
+  "columnsReceita": [
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Garantia Receita",
+      "name": "garantia_receita"
+    }
+  ],
+
+  "columnsReajuste": [
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Tipo Reajuste",
+      "name": "tipo_reajuste"
+    }
+  ]
+}

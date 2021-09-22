@@ -1,0 +1,37 @@
+{
+  "columns": [
+    {
+      "title": "Propostas",
+      "name": "propostas"
+    },
+    {
+      "title": "Data",
+      "name": "data"
+    },
+    { "name": "add", "title": "Ações" }
+  ],
+  "labels": [
+    { "cols": "1", "text": "Custo Unitário" },
+    { "cols": "1", "text": "Sem Impostos" },
+    { "cols": "1", "text": "Com Impostos" },
+    { "cols": "1", "text": "Lpu" },
+    { "cols": "1", "text": " " },
+    { "cols": "1", "text": "Quantidade" },
+    { "cols": "1", "text": " " },
+    { "cols": "1", "text": "Total" }
+  ],
+  "OPH": [
+    {
+      "value": "CONVENCIONAL",
+      "name": "CONVENCIONAL"
+    },
+    {
+      "value": "JUMPER",
+      "name": "JUMPER"
+    },
+    {
+      "value": "SAT",
+      "name": "SAT"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+.login-box button {
+  margin-left: 0px;
+}
+
+.login-box a:hover {
+  cursor: pointer;
+}
+
+.login-logo img {
+  padding-bottom: 8px;
+  width: 27px;
+}
+
+.box-radius {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.skin-black .wrapper {
+  background: #fff;
+  overflow-y: hidden;
+}
+
+
+/* SKIN BLUE */
+
+.skin-blue .main-header .navbar {
+  background-color: #004691 !important
+}
+
+.skin-blue .main-header .logo {
+  background-color: #002f5d !important
+}
+
+.main {
+  overflow-y: scroll !important;
+  padding-bottom: 45px;
+}
+
+.skin-blue .main-sidebar {
+  background-color: #004691 !important
+}
+
+.skin-blue .wrapper {
+  background: #EBEBEB;
+  overflow-y: hidden;
+}
+
+.skin-blue .main-header .navbar .sidebar-toggle:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.skin-blue .sidebar-menu>li:hover>a {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.nav .open>a,
+.skin-blue .main-header .navbar .nav .open>a:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  overflow-y: hidden;
+}
+
+.main {
+  height: -webkit-fill-available;
+}
+
+.skin-blue ul::-webkit-scrollbar-track {
+  background-color: #004691
+}
+
+ul::-webkit-scrollbar-thumb {
+  background-color: #FC4C4C !important
+}
+
+
+.skin-blue [data-for="power-off"] i:hover {}
+
+.skin-blue a[data-for="power-off"]:hover {
+  background-color: #DD4B39 !important;
+
+}

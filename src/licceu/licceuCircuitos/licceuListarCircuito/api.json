@@ -1,0 +1,339 @@
+{
+  "columns": [{
+      "id": 1,
+      "title": "Nome",
+      "name": "nome"
+    },
+    {
+      "id": 2,
+      "title": "Teclonogia",
+      "name": "tecnologia"
+    },
+    {
+      "id": 3,
+      "title": "Interface",
+      "name": "interface"
+    },
+    {
+      "id": 4,
+      "title": "Status",
+      "name": "status"
+    },
+    {
+      "id": 5,
+      "title": "Tipo Demanda",
+      "name": "tipo_demanda"
+    },
+    {
+      "id": 6,
+      "title": "Frequência",
+      "name": "frequencia"
+    },
+    {
+      "id": 7,
+      "title": "Meio TX",
+      "name": "meio_tx"
+    },
+    {
+      "id": 8,
+      "title": "Site A",
+      "name": "site_a"
+    },
+    {
+      "id": 9,
+      "title": "End Id A",
+      "name": "end_id_a"
+    },
+    {
+      "id": 10,
+      "title": "Site Z",
+      "name": "site_z"
+    },
+    {
+      "id": 11,
+      "title": "End Id Z",
+      "name": "end_id_z"
+    },
+    {
+      "id": 12,
+      "title": "OT",
+      "name": "ot"
+    },
+    {
+      "id": 13,
+      "title": "Circuito Ampliação",
+      "name": "circuit_amp_name"
+    },
+    {
+      "id": 14,
+      "title": "Circuito Refiliação",
+      "name": "circuit_ref_name"
+    },
+    {
+      "id": 15,
+      "title": "Fabricante",
+      "name": "fabricante"
+    },
+    {
+      "id": 16,
+      "title": "MW/PAR",
+      "name": "mw_par"
+    },
+    {
+      "id": 17,
+      "title": "HUB",
+      "name": "hub"
+    },
+    {
+      "id": 18,
+      "title": "Cluster/Anel",
+      "name": "anel_cluster"
+    },
+    {
+      "id": 19,
+      "title": "Banda de projeto (Mbps)",
+      "name": "capacidade"
+    },
+    {
+      "id": 20,
+      "title": "Vendor",
+      "name": "vendor_name"
+    },
+    {
+      "id": 21,
+      "title": "Rota",
+      "name": "erro"
+    },
+    {
+      "id": 22,
+      "title": "SN",
+      "name": "sn"
+    },
+    {
+      "id": 23,
+      "title": "Data Última Ação",
+      "name": "updated_at"
+    },
+    {
+      "id": 24,
+      "title": "Usuário Última Ação",
+      "name": "user_id"
+    }
+  ],
+  "columnWidths": [{
+      "columnName": "nome",
+      "width": 180
+    },
+    {
+      "columnName": "tecnologia",
+      "width": 100
+    },
+    {
+      "columnName": "interface",
+      "width": 100
+    },
+    {
+      "columnName": "status",
+      "width": 100
+    },
+    {
+      "columnName": "tipo_demanda",
+      "width": 100
+    },
+    {
+      "columnName": "frequencia",
+      "width": 100
+    },
+    {
+      "columnName": "meio_tx",
+      "width": 100
+    },
+    {
+      "columnName": "site_a",
+      "width": 100
+    },
+    {
+      "columnName": "end_id_a",
+      "width": 100
+    },
+    {
+      "columnName": "site_z",
+      "width": 100
+    },
+    {
+      "columnName": "end_id_z",
+      "width": 100
+    },
+    {
+      "columnName": "ot",
+      "width": 100
+    },
+    {
+      "columnName": "circuit_amp_name",
+      "width": 100
+    },
+    {
+      "columnName": "circuit_ref_name",
+      "width": 100
+    },
+    {
+      "columnName": "fabricante",
+      "width": 100
+    },
+    {
+      "columnName": "mw_par",
+      "width": 100
+    },
+    {
+      "columnName": "hub",
+      "width": 100
+    },
+    {
+      "columnName": "anel_cluster",
+      "width": 100
+    },
+    {
+      "columnName": "capacidade",
+      "width": 100
+    },
+    {
+      "columnName": "vendor_name",
+      "width": 100
+    },
+    {
+      "columnName": "erro",
+      "width": 100
+    },
+    {
+      "columnName": "sn",
+      "width": 100
+    },
+    {
+      "columnName": "updated_at",
+      "width": 100
+    },
+    {
+      "columnName": "user_id",
+      "width": 100
+
+    }
+
+  ],
+  "filter": {
+    "status": [{
+        "id": 1,
+        "value": "EM PROJETO"
+      },
+      {
+        "id": 2,
+        "value": "EM SERVIÇO"
+      },
+      {
+        "id": 3,
+        "value": "EM REFILIACAO"
+      },
+      {
+        "id": 4,
+        "value": "EM AMPLIACAO"
+      },
+      {
+        "id": 5,
+        "value": "REFILIADO"
+      },
+      {
+        "id": 6,
+        "value": "AMPLIADO"
+      },
+      {
+        "id": 0,
+        "value": "CANCELADA"
+      },
+      {
+        "id": 7,
+        "value": "EM CANCELAMENTO"
+      },
+      {
+        "id": 8,
+        "value": "EM ESTUDO"
+      }
+    ],
+    "rota": [{
+        "id": 1,
+        "value": "Completa"
+      },
+      {
+        "id": 2,
+        "value": "Incompleta"
+      }
+    ],
+    "tipo_demanda": [{
+        "id": 1,
+        "value": "ACESSO 2G"
+      },
+      {
+        "id": 2,
+        "value": "ACESSO 3G"
+      },
+      {
+        "id": 3,
+        "value": "ACESSO 4G"
+      },
+      {
+        "id": 4,
+        "value": "INTERCONEXÃO"
+      },
+      {
+        "id": 5,
+        "value": "LOJA"
+      },
+      {
+        "id": 6,
+        "value": "CORPORATIVA"
+      },
+      {
+        "id": 7,
+        "value": "REFILIAÇÃO"
+      },
+      {
+        "id": 8,
+        "value": "SMALL CELL"
+      },
+      {
+        "id": 9,
+        "value": "OUTROS"
+      }
+    ],
+    "interface": [{
+        "id": 1,
+        "value": "E1"
+      },
+      {
+        "id": 2,
+        "value": "E3"
+      },
+      {
+        "id": 3,
+        "value": "FETH"
+      },
+      {
+        "id": 4,
+        "value": "GETH"
+      },
+      {
+        "id": 5,
+        "value": "STM-1 CH"
+      },
+      {
+        "id": 6,
+        "value": "STM-1 NCH"
+      }
+    ],
+    "tecnologia": [{
+      "id": 1,
+      "value": "IP"
+    }, {
+      "id": 2,
+      "value": "TDM"
+    }]
+  }
+}

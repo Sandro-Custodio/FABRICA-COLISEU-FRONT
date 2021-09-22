@@ -1,0 +1,371 @@
+[
+  {
+
+    "name" : "chaveVendor",
+    "title" : "Chave/Vendor"
+
+  },
+  {
+
+    "name" : "chave",
+    "title" : "Chave"
+
+  },
+  {
+
+    "name" : "ano",
+    "title" : "Ano"
+
+  },
+  {
+
+    "name" : "indice",
+    "title" : "Índice"
+
+  },
+  {
+
+    "name" : "statusSingleChave",
+    "title" : "Status Single Chave"
+
+  },
+  {
+
+    "name" : "epm",
+    "title" : "EPM (Sim/Não)"
+
+  },
+  {
+
+    "name" : "prioridade",
+    "title" : "Carimbo Projetos (PLO's de Acesso)"
+
+  },
+  {
+
+    "name" : "projPrincipal",
+    "title" : "Projeto Principal"
+
+  },
+  {
+
+    "name" : "projSecund",
+    "title" : "Projeto Secundário"
+
+  },
+  {
+
+    "name" : "detailProjAssociado",
+    "title" : "Detalhamento: Projeto Associado"
+
+  },
+  {
+
+    "name" : "amplDetail",
+    "title" : "Ampliação (Detalhamento)"
+
+  },
+  {
+
+    "name" : "capacidadeNecessaria",
+    "title" : "Capacidade Necessaria (NFE - Atual)"
+
+  },
+  {
+
+    "name" : "capacidadeTotalEnlace",
+    "title" : "Capacidade Total do Enlace (NFE)"
+
+  },
+  {
+
+    "name" : "capacidadeProjetada",
+    "title" : "Capacidade Projetada (Enlace)"
+
+  },
+  {
+
+    "name" : "enlaceEndId",
+    "title" : "Enlace (END_ID)"
+
+  },
+  {
+
+    "name" : "endIdPontaA",
+    "title" : "END_ID Ponta A"
+
+  },
+  {
+
+    "name" : "endIdPontaB",
+    "title" : "END_ID Ponta B"
+
+  },
+  {
+
+    "name" : "pontaA",
+    "title" : "Ponta A"
+
+  },
+  {
+
+    "name" : "pontaB",
+    "title" : "Ponta B"
+
+  },
+  {
+
+    "name" : "regional",
+    "title" : "Regional"
+
+  },
+  {
+
+    "name" : "uf",
+    "title" : "UF"
+
+  },
+  {
+
+    "name" : "municipio",
+    "title" : "Município"
+
+  },
+  {
+
+    "name" : "lastMile",
+    "title" : "Last Mile"
+
+  },
+  {
+
+    "name" : "pontaANovoExist",
+    "title" : "Ponta A (Novo/Existente)"
+
+  },
+  {
+
+    "name" : "distanciaEnlace",
+    "title" : "Distância Enlace (KM)"
+
+  },
+  {
+
+    "name" : "endIdFiliacao",
+    "title" : "END ID Filiação"
+
+  },
+  {
+
+    "name" : "filiacao",
+    "title" : "Filiação"
+
+  },
+  {
+
+    "name" : "meioTx",
+    "title" : "Meio TX"
+
+  },
+  {
+
+    "name" : "observacaoController",
+    "title" : "Observação Controller"
+  },
+  {
+
+    "name" : "obsFocal",
+    "title" : "Observação Focal"
+  },
+  {
+
+    "name" : "dataUltAlteracaoController",
+    "title" : "Data Última Alteração Controller"
+
+  },
+  {
+
+    "name" : "dataUltAlteracaoFocal",
+    "title" : "Data Última Alteração Focal"
+
+  },
+  {
+
+    "name" : "novosMunicipios",
+    "title" : "Novos Municípios"
+
+  },
+  {
+
+    "name" : "historico",
+    "title" : "Histórico"
+
+  },
+  {
+
+    "name" : "vendorExecucao",
+    "title" : "Vendor Execução"
+
+  },
+  {
+
+    "name" : "radioMw",
+    "title" : "Radio MW"
+
+  },
+  {
+
+    "name" : "modeloRadio",
+    "title" : "Modelo Radio"
+
+  },
+  {
+
+    "name" : "regionalLicceu",
+    "title" : "Regional Licceu"
+
+  },
+  {
+
+    "name" : "statusLicceuId",
+    "title" : "Status Licceu"
+
+  },
+  {
+
+    "name" : "licceuId",
+    "title" : "Licceu ID"
+
+  },
+  {
+
+    "name" : "envioReqRegional",
+    "title" : "Envio de Requisitos a Regional (ENG) Real"
+
+  },
+  {
+
+    "name" : "saldoLo",
+    "title" : "Saldo LO"
+
+  },
+  {
+
+    "name" : "projeto",
+    "title" : "Projeto"
+
+  },
+  {
+
+    "name" : "subProjeto",
+    "title" : "Sub Projeto"
+
+  },
+  {
+
+    "name" : "elementDetail",
+    "title" : "Element Detail"
+
+  },
+  {
+
+    "name" : "boqProjComplementar",
+    "title" : "BOQ Complementar"
+  },
+  {
+
+    "name" : "statusBoqProj",
+    "title" : "Status BOQ Projeto"
+
+  },
+  {
+
+    "name" : "statusBoqHwPontaA",
+    "title" : "Status BOQ HW - Ponta A"
+
+  },
+  {
+
+    "name" : "statusBoqHwPontaB",
+    "title" : "Status BOQ HW - Ponta B"
+
+  },
+  {
+
+    "name" : "statusBoqSePontaA",
+    "title" : "Status BOQ SE - Ponta A"
+
+  },
+  {
+
+    "name" : "statusBoqSePontaB",
+    "title" : "Status BOQ SE - Ponta B"
+
+  },
+  {
+
+    "name" : "statusBoqInfraPontaA",
+    "title" : "Status BOQ Infra - Ponta A"
+
+  },
+  {
+
+    "name" : "statusBoqInfraPontaB",
+    "title" : "Status BOQ Infra - Ponta B"
+
+  },
+  {
+
+    "name" : "chaveSubstituta",
+    "title" : "Chave Substituta"
+
+  },
+  {
+
+    "name" : "obsController",
+    "title" : "OBS Controller"
+
+  },
+  {
+
+    "name" : "controleAlter",
+    "title" : "Controle de Alteração"
+
+  },
+  {
+
+    "name" : "dataDeclinioFo",
+    "title" : "Data Declínio FO"
+
+  },
+  {
+
+    "name" : "rltTemplateRolloutUni",
+    "title" : "Status Rollout NI"
+
+  },
+  {
+
+    "name" : "acaoAlinhamento",
+    "title" : "Ação Alinhamento"
+
+  },
+  {
+
+    "name" : "dataInclusao",
+    "title" : "Data de Inclusão Geração de Chave"
+
+  },
+  {
+
+    "name" : "rltInclusao",
+    "title" : "RLT de Inclusão Planilha TSD"
+
+  },
+  {
+
+    "name" : "projetoInclusao",
+    "title" : "Projeto Inclusão"
+
+  }
+ ]

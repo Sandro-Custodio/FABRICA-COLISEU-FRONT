@@ -1,0 +1,15 @@
+node_modules
+*.log
+.env
+.env.development
+.env.env
+.env.production
+yarn.lock
+package-lock.json
+build
+JAVA_API.md
+*.zip
+*.ini
+*.env*
+env.production
+/public/modelo

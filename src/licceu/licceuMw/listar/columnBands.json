@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Estação 1",
+    "children": [
+      { "columnName": "est1_sigla_2g" },
+      { "columnName": "est1_altitude_m" },
+      { "columnName": "est1_uf_estacao" },
+      { "columnName": "est1_municipio_estacao" },
+      { "columnName": "tipo_elemento_a" },
+      { "columnName": "endereco_id_a" },
+      { "columnName": "est1_regional_estacao" }
+    ]
+  },
+  {
+    "title": "Estação 2",
+    "children": [
+      { "columnName": "est2_sigla_2g" },
+      { "columnName": "est2_altitude_m" },
+      { "columnName": "est2_uf_estacao" },
+      { "columnName": "est2_municipio_estacao" },
+      { "columnName": "tipo_elemento_b" },
+      { "columnName": "endereco_id_b" },
+      { "columnName": "est2_regional_estacao" }
+    ]
+  }
+]

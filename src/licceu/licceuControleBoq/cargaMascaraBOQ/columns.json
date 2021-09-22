@@ -1,0 +1,6 @@
+[
+  { "name": "nomeArquivo", "title": "Nome de arquivo" },
+  { "name": "tipoDocumento", "title": "Tipo do Documento" },
+  { "name": "dataUltimaGeracao", "title": "Data" },
+  { "name": "processado", "title": "Status da Última Geração" }
+]

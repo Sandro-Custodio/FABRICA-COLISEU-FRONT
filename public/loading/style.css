@@ -1,0 +1,87 @@
+  html {
+    height: 100%;
+    overflow: auto;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+  .loading {
+    overflow: hidden;
+  }
+
+  .loading-logo {
+    margin-top: 250px;
+    position: relative;
+    padding-bottom: 25px;
+    display: block;
+    left: 48%;
+  }
+
+  .loading-logo img {
+    width: 2%;
+  }
+
+  .loading-process {
+    position: relative;
+    height: 2px;
+    display: block;
+    width: 10%;
+    left: 45%;
+    background-color: rgb(199, 199, 199);
+    border-radius: 2px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 7px 20px -7px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 7px 20px -7px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 7px 20px -7px rgba(0, 0, 0, 0.75);
+  }
+
+  .loading .indeterminate {
+    background-color: #003366;
+  }
+
+  .loading .indeterminate:before {
+    content: '';
+    position: absolute;
+    background-color: inherit;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    will-change: left, right;
+    -webkit-animation: indeterminate 2.1s cubic-bezier(0.65, 0.815, 0.735, 0.395) infinite;
+    animation: indeterminate 2.1s cubic-bezier(0.65, 0.815, 0.735, 0.395) infinite;
+  }
+
+  @-webkit-keyframes indeterminate {
+    0% {
+      left: -50%;
+      right: 100%;
+    }
+
+    50% {
+      left: 100%;
+      right: -50%;
+    }
+
+    100% {
+      left: -50%;
+      right: 100%;
+    }
+  }
+
+  @keyframes indeterminate {
+    0% {
+      left: -50%;
+      right: 100%;
+    }
+
+    50% {
+      left: 100%;
+      right: -50%;
+    }
+
+    100% {
+      left: -50%;
+      right: 100%;
+    }
+  }

@@ -1,0 +1,343 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "Crítica",
+      "name": "critica"
+    },
+    {
+      "id": 2,
+      "title": "Quantidade",
+      "name": "count"
+    },
+    {
+      "id": 3,
+      "title": "Ação",
+      "name": "action"
+    }
+  ],
+  "columnWidths": [
+    {
+      "columnName": "critica",
+      "width": 750
+    },
+    {
+      "columnName": "count",
+      "width": 300
+    },
+    {
+      "columnName": "action",
+      "width": 140
+    }
+  ],
+  "detalheColumns": [
+    {
+      "id": 1,
+      "title": "ID Licceu",
+      "name": "idLicceu"
+     },
+     {
+       "id": 2,
+       "title": "Regional A",
+       "name": "regionalA"
+     },
+     {
+      "id": 3,
+      "title": "UF A",
+      "name": "ufA"
+     },
+     {
+      "id": 4,
+      "title": "Município A",
+      "name": "municipioA"
+     },
+     {
+      "id": 5,
+      "title": "Ponta A",
+      "name": "pontaA"
+     },
+     {
+      "id": 6,
+      "title": "Regional B",
+      "name": "regionalB"
+     },
+     {
+      "id": 7,
+      "title": "UF B",
+      "name": "ufB"
+     },
+     {
+      "id": 8,
+      "title": "Município B",
+      "name": "municipioB"
+     },
+     {
+      "id": 9,
+      "title": "Ponta B",
+      "name": "pontaB"
+     },
+     {
+      "id": 10,
+      "title": "Status",
+      "name": "status"
+     },
+     {
+      "id": 11,
+      "title": "Capacidade Solicitada(MBPS)",
+      "name": "capacidadeSolicitada"
+     },
+     {
+      "id": 12,
+      "title": "Capacidade(MBPS)",
+      "name": "capacidadeContratada"
+     },
+     {
+      "id": 13,
+      "title": "Tipo de Link",
+      "name": "tipoLink"
+     },
+     {
+      "id": 14,
+      "title": "Modelo",
+      "name": "modelo"
+     },
+     {
+      "id": 15,
+      "title": "Vendor/Fornecedor Origem MW",
+      "name": "vendorFornecedorOrigemMw"
+     },
+     {
+      "id": 16,
+      "title": "Vendor/Fornecedor Origem FO/LL",
+      "name": "vendorFornecedorOrigemFoLl"
+     },
+     {
+      "id": 17,
+      "title": "Vendor/Fornecedor Dest FO/LL",
+      "name": "vendorFornecedorDestinoFoLl"
+     },
+     {
+      "id": 18,
+      "title": "Vendor/Fornecedor Dest MW",
+      "name": "vendorFornecedorDestinoMw"
+     },
+     {
+      "id": 19,
+      "title": "Tecnologia",
+      "name": "tecnologia"
+     },
+     {
+      "id": 20,
+      "title": "Conceito Hub",
+      "name": "conceitoHub"
+     },
+     {
+      "id": 21,
+      "title": "Des. Circuito",
+      "name": "desCircuito"
+     },
+     {
+      "id": 22,
+      "title": "Interface",
+      "name": "interfaceHub"
+     },
+     {
+      "id": 23,
+      "title": "Acc Id",
+      "name": "accId"
+     },
+     {
+      "id": 24,
+      "title": "Trail Id",
+      "name": "trailId"
+     },
+     {
+      "id": 25,
+      "title": "Slot/Porta",
+      "name": "slotPorta"
+     },
+     {
+      "id": 26,
+      "title": "OT",
+      "name": "ot"
+     },
+     {
+      "id": 27,
+      "title": "Eng-Tx",
+      "name": "engTx"
+     },
+     {
+      "id": 28,
+      "title": "Engenheiro Responsável*",
+      "name": "engenheiroResp"
+     },
+     {
+      "id": 29,
+      "title": "Dependência Rota LD",
+      "name": "dependenciaRotaLd"
+     },
+     {
+      "id": 30,
+      "title": "Observação",
+      "name": "observacao"
+     },
+     {
+      "id": 31,
+      "title": "Banda Média Atual (Com ETH)",
+      "name": "bandaMediaAtualEth"
+     },
+     {
+      "id": 32,
+      "title": "Banda Média Projetada (Com ETH)",
+      "name": "bandaMediaProjetEth"
+     },
+     {
+      "id": 33,
+      "title": "Banda Média Atual (TODOS ENDID)",
+      "name": "bandaMediaAtualEndId"
+     },
+     {
+      "id": 34,
+      "title": "Banda Media Projetada (TODOS ENDID)",
+      "name": "bandaMediaProjetEndId"
+     }
+  ],
+  "detalheColumnWidths": [
+    {
+      "columnName": "idLicceu",
+      "width": 100
+    },
+    {
+      "columnName": "regionalA",
+      "width": 100
+    },
+    {
+      "columnName": "ufA",
+      "width": 100
+    },
+    {
+      "columnName": "municipioA",
+      "width": 100
+    },
+    {
+      "columnName": "pontaA",
+      "width": 100
+    },
+    {
+      "columnName": "regionalB",
+      "width": 100
+    },
+    {
+      "columnName": "ufB",
+      "width": 100
+    },
+    {
+      "columnName": "municipioB",
+      "width": 100
+    },
+    {
+      "columnName": "pontaB",
+      "width": 100
+    },
+    {
+      "columnName": "status",
+      "width": 100
+    },
+    {
+      "columnName": "capacidadeSolicitada",
+      "width": 100
+    },
+    {
+      "columnName": "capacidadeContratada",
+      "width": 100
+    },
+    {
+      "columnName": "tipoLink",
+      "width": 100
+    },
+    {
+      "columnName": "modelo",
+      "width": 100
+    },
+    {
+      "columnName": "vendorFornecedorOrigemMw",
+      "width": 100
+    },
+    {
+      "columnName": "vendorFornecedorOrigemFoLl",
+      "width": 100
+    },
+    {
+      "columnName": "vendorFornecedorDestinoFoLl",
+      "width": 100
+    },
+    {
+      "columnName": "vendorFornecedorDestinoMw",
+      "width": 100
+    },
+    {
+      "columnName": "tecnologia",
+      "width": 100
+    },
+    {
+      "columnName": "conceitoHub",
+      "width": 100
+    },
+    {
+      "columnName": "desCircuito",
+      "width": 100
+    },
+    {
+      "columnName": "interfaceHub",
+      "width": 100
+    },
+    {
+      "columnName": "accId",
+      "width": 100
+    },
+    {
+      "columnName": "trailId",
+      "width": 100
+    },
+    {
+      "columnName": "slotPorta",
+      "width": 100
+    },
+    {
+      "columnName": "ot",
+      "width": 100
+    },
+    {
+      "columnName": "engTx",
+      "width": 100
+    },
+    {
+      "columnName": "engenheiroResp",
+      "width": 100
+    },
+    {
+      "columnName": "dependenciaRotaLd",
+      "width": 100
+    },
+    {
+      "columnName": "observacao",
+      "width": 100
+    },
+    {
+      "columnName": "bandaMediaAtualEth",
+      "width": 100
+    },
+    {
+      "columnName": "bandaMediaProjetEth",
+      "width": 100
+    },
+    {
+      "columnName": "bandaMediaAtualEndId",
+      "width": 100
+    },
+    {
+      "columnName": "bandaMediaProjetEndId",
+      "width": 100
+    }
+  ]
+}

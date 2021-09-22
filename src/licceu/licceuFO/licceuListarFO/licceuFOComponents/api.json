@@ -1,0 +1,66 @@
+{
+  "colunasExcel": [
+    { "value": "id_licceu_anel", "label": "ID LICCEU ANEL" },
+    { "value": "chave", "label": "CHAVE" },
+    { "value": "cluster_fo", "label": "CLUSTER" },
+    { "value": "anel_fo", "label": "ANEL" },
+    { "value": "tipo", "label": "TIPO" },
+    { "value": "status", "label": "STATUS" },
+    { "value": "capacidade_min", "label": "CAP. MIN (MBPS)" },
+    { "value": "capacidade_max", "label": "CAP. MAX (MBPS)" },
+    { "value": "cap_ativo", "label": "CAP. EM SERVIÇO" },
+    { "value": "cap_proj", "label": "CAP. PLANEJADA (MBPS)" },
+    { "value": "cap_disp", "label": "CAP. DISPONÍVEL (MBPS)" },
+    { "value": "ag_pop_1", "label": "POP AGREGADOR 1" },
+    { "value": "ag_pop_2", "label": "POP AGREGADOR 2" }
+  ],
+  "subColunasExcel": [
+    { "value": "fo_id", "label": "FO ID" },
+    { "value": "sigla_2g_est1", "label": "Sigla 2G Est. 1" },
+    { "value": "sigla_2g_est2", "label": "Sigla 3G Est. 2" },
+    { "value": "sigla_3g_est1", "label": "Sigla 2G Est. 1" },
+    { "value": "sigla_3g_est2", "label": "Sigla 3G Est. 1" },
+    { "value": "sigla_lte_est1", "label": "Sigla LTE Est. 1" },
+    { "value": "sigla_lte_est2", "label": "Sigla LTE Est. 2" },
+    { "value": "vendor_est1", "label": "Fabricante Est. 1" },
+    { "value": "vendor_est2", "label": "Fabricante Est. 2" },
+    { "value": "modelo_est1", "label": "Modelo Est. 1" },
+    { "value": "modelo_est2", "label": "Modelo Est. 2" },
+    { "value": "uf_est1", "label": "UF Estação" },
+    { "value": "reg_est1", "label": "Regional Estação" },
+    { "value": "slot_porta_est_1", "label": "Slot/Porta Est. 1" },
+    { "value": "slot_porta_est_2", "label": "Slot/Porta Est. 2" }
+  ],
+  "colunasBandaMedia": [
+    { "id": 1, "name": "id_licceu_anel", "title": "ID LICCEU ANEL" },
+    { "id": 2, "name": "chave", "title": "CHAVE" },
+    { "id": 3, "name": "tipo", "title": "TIPO" },
+    { "id": 4, "name": "end_source", "title": "POP_AGG" },
+    { "id": 5, "name": "end_destination", "title": "POP_AGG" },
+    { "id": 6, "name": "total_capacity", "title": "Capacidade Total(Mbps)" },
+    { "id": 7, "name": "banda_media_eth", "title": "B. Média Atual(com Eth)" },
+    { "id": 8, "name": "banda_media_eth_proj", "title": "B. Média Projetada(com Eth)" },
+    { "id": 9, "name": "banda_media_all_end_id", "title": "B. Média Atual(Todos EndId)" },
+    { "id": 10, "name": "banda_media_all_end_id_proj", "title": "B. Média Projetada(Todos EndId)" },
+    { "id": 11, "name": "n_circuitos_ethernet", "title": "Nº Circuito Ip" },
+    { "id": 12, "name": "cp_circuitos_tdm", "title": "Cap. Circuito TDM(Mbps)" },
+    { "id": 13, "name": "num_circuitos", "title": "Total circuitos" }
+  ],
+  "colunasBandaMediaExcel": [
+    { "name": "id_licceu_anel", "title": "ID LICCEU ANEL" },
+    { "name": "chave", "title": "CHAVE" },
+    { "name": "tipo", "title": "TIPO" },
+    { "name": "end_source", "title": "POP_AGG" },
+    { "name": "end_destination", "title": "POP_AGG" },
+    { "name": "total_capacity", "title": "Capacidade Total(Mbps)" },
+    { "name": "banda_media_eth", "title": "B. Média Atual(com Eth)" },
+    { "name": "banda_media_eth_proj", "title": "B. Média Projetada(com Eth)" },
+    { "name": "banda_media_all_end_id", "title": "B. Média Atual(Todos EndId)" },
+    { "name": "banda_media_all_end_id_proj", "title": "B. Média Projetada(Todos EndId)" },
+    { "name": "n_circuitos_ethernet", "title": "Nº Circuito Ip" },
+    { "name": "cp_circuitos_tdm", "title": "Cap. Circuito TDM(Mbps)" },
+    { "name": "num_circuitos", "title": "Total circuitos" }
+  ]
+
+}
+

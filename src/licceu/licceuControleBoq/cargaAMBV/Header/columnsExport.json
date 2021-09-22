@@ -1,0 +1,11 @@
+[
+  { "name": "nomeArquivoEvora", "title": "Nome Boq" },
+  { "name": "descrLoteEvora", "title": "Lote" },
+  { "name": "orgC", "title": "Chave" },
+  { "name": "vendor", "title": "Vendor" },
+  { "name": "contrato", "title": "Contrato" },
+  { "name": "itemContrato", "title": "Item Contrato" },
+  { "name": "sapCode", "title": "SAP Code" },
+  { "name": "descricao", "title": "Descrição" },
+  { "name": "statusBoq", "title": "Status Boq" }
+]

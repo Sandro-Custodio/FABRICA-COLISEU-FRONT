@@ -1,0 +1,74 @@
+.btn-csv {
+    margin: 0 !important;
+    margin-left: -3px !important;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.box-body {
+    padding: 0px !important;
+}
+
+form>div {
+    padding-left: 5px !important;
+}
+
+.form-actions {
+    border-top: solid 1px #eee;
+    text-align: right;
+    padding: 10px 0px 17px 0px;
+}
+
+.form-actions button:last-of-type {
+    margin: 0 !important;
+}
+
+.p-0 {
+    padding: 0 !important;
+}
+
+.cts-overlay {
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+.modal-g {
+    max-width: 80% !important;
+}
+
+.modal-g .modal-body {
+    max-height: 650px !important;
+    padding: 0 !important;
+    overflow-y: hidden;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.modal-g .modal-footer {
+    display: none;
+}
+
+.modal-g .container-fluid {
+    padding: 0 !important;
+}
+
+.modal-g .table-responsive {
+    height: 590px !important;
+}
+
+.modal-g .panel {
+    margin-bottom: 0px !important;
+}
+
+.modal-g .panel-heading,
+.modal-g .panel {
+    border-radius: 0px !important;
+}

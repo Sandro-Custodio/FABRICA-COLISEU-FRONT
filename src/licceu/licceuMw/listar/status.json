@@ -1,0 +1,10 @@
+[
+  { "text": "Ativo", "value": "ATIVO" },
+  { "text": "Projeto", "value": "PROJETO" },
+  { "text": "Em analise", "value": "EM ANALISE" },
+  { "text": "Em Estudo", "value": "EM ESTUDO" },
+  { "text": "Todos", "value": "TODOS" },
+  { "text": "Desativado", "value": "DESATIVADO" },
+  { "text": "Desinstalado", "value": "DESINSTALADO" },
+  { "text": "Cancelado", "value": "CANCELADO" }
+]

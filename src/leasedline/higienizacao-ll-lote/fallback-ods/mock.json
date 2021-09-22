@@ -1,0 +1,7 @@
+{
+  "columns": [
+    { "name": "od_code", "title": "Código OD" },
+    { "name": "vendor_name", "title": "Provedor" },
+    { "name": "circuito_id", "title": "Código do Circuito" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "test": [{
+    "circuito_id": "91684591",
+    "tecnologia": "GSM",
+    "degrau": "D2",
+    "id": 33440,
+    "ot_segmentation_id": "58488.0",
+    "val_link_c_imp_a": 3841.1,
+    "val_link_c_imp_b": 0.0,
+    "circuito_id_clean": "91684591",
+    "id_circuit_bill": null,
+    "ot_redundancy_id": 2,
+    "element_a_id": 15367,
+    "element_b_id": 18445,
+
+    "speed_name": "2 Mbps",
+    "speed": 2,
+    "ot_speed_id": 33,
+    "speed_unity": "Mbps",
+
+    "elemento_id_a": "ITNA01",
+    "endereco_id_a": "ESINW_0001",
+    "technology_a": "GSM",
+    "cnl_a": "INW",
+    "address_a": "RUA UM SN, 0 (ATRÁS O CEMITÉRIO)",
+    "city_a": "Itarana",
+    "state_a": "ES",
+    "elemento_id_b": "BVTA11",
+    "endereco_id_b": "ESVVA_0045",
+    "technology_b": "GSM",
+    "cnl_b": "INW",
+    "address_b": "RUA ANTONIO DE ALMEIDA FILHO,LT07,QUADRA01 S/N, 0",
+    "city_b": "Vila Velha",
+    "state_b": "ES"
+  }]
+}

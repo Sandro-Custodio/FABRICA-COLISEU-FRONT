@@ -1,0 +1,142 @@
+{
+  "columns": [
+    {
+      "title": "Mensagem Importação",
+      "name": "message"
+    },
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Plano Rollout",
+      "name": "plano_rollout"
+    },
+    {
+      "title": "Rollout Planejado",
+      "name": "rollout_planejado"
+    },
+    {
+      "title": "Rollout Replanejado",
+      "name": "rollout_replanejado"
+    },
+    {
+      "title": "Rollout Realizado",
+      "name": "rollout_realizado"
+    },
+    {
+      "title": "Plano Eficiência",
+      "name": "plano_efic"
+    },
+    {
+      "title": "Eficiência Planejada",
+      "name": "efic_planejado"
+    },
+    {
+      "title": "Eficiência Replanejada",
+      "name": "efic_replanejada"
+    },
+    {
+      "title": "Eficiência Realizada",
+      "name": "efic_realizada"
+    },
+    {
+      "title": "Grupo de Provedor",
+      "name": "grupo_provedor"
+    },
+    {
+      "title": "SEG_VELOCIDADE_Mbps",
+      "name": "seg_velocidade_mbps"
+    },
+    {
+      "title": "Tecnologia Normalizada",
+      "name": "tecnologia_normalizada"
+    },
+    {
+      "title": "Status Normalizado PMO",
+      "name": "status_normalizado_pmo"
+    },
+    {
+      "title": "Classificação Demanda",
+      "name": "classificacao_demanda"
+    },
+    {
+      "title": "Controle LL GUID",
+      "name": "controle_ll_guid"
+    },
+    {
+      "title": "Rede Normalizada",
+      "name": "rede_normalizada"
+    }
+  ],
+  "columnWidths": [
+    {
+      "width": 200,
+      "columnName": "message"
+    },
+    {
+      "width": 140,
+      "columnName": "ll_guid"
+    },
+    {
+      "width": 140,
+      "columnName": "plano_rollout"
+    },
+    {
+      "width": 150,
+      "columnName": "rollout_planejado"
+    },
+    {
+      "width": 160,
+      "columnName": "rollout_replanejado"
+    },
+    {
+      "width": 140,
+      "columnName": "rollout_realizado"
+    },
+    {
+      "width": 140,
+      "columnName": "plano_efic"
+    },
+    {
+      "width": 150,
+      "columnName": "efic_planejado"
+    },
+    {
+      "width": 160,
+      "columnName": "efic_replanejada"
+    },
+    {
+      "width": 150,
+      "columnName": "efic_realizada"
+    },
+    {
+      "width": 170,
+      "columnName": "grupo_provedor"
+    },
+    {
+      "width": 170,
+      "columnName": "seg_velocidade_mbps"
+    },
+    {
+      "width": 170,
+      "columnName": "tecnologia_normalizada"
+    },
+    {
+      "width": 170,
+      "columnName": "status_normalizado_pmo"
+    },
+    {
+      "width": 170,
+      "columnName": "classificacao_demanda"
+    },
+    {
+      "width": 170,
+      "columnName": "controle_ll_guid"
+    },
+    {
+      "width": 170,
+      "columnName": "rede_normalizada"
+    }
+  ]
+}

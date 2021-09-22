@@ -1,0 +1,114 @@
+{
+  "columnsListar": [
+    {
+      "title": "Rede",
+      "name": "rede"
+    },
+    {
+      "title": "Agrupador",
+      "name": "agrupador"
+    },
+    {
+      "title": "Regional",
+      "name": "regional"
+    },
+    {
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "title": "Status",
+      "name": "status"
+    },
+    {
+      "title": "Início Medição",
+      "name": "iniMedicao"
+    },
+    {
+      "title": "Fim Medição",
+      "name": "fimMedicao"
+    },
+    {
+      "title": "Competência",
+      "name": "competencia"
+    },
+    {
+      "title": "Data Emissão",
+      "name": "dataEmissao"
+    },
+    {
+      "title": "Data Vencimento",
+      "name": "dataVencimento"
+    },
+    {
+      "title": "Data de Corte",
+      "name": "dataCorte"
+    },
+    {
+      "title": " ",
+      "name": "tableAction"
+    }
+  ],
+  "columnsListarWidth": [
+    {
+      "width": 100,
+      "columnName": "rede"
+    },
+    {
+      "width": 120,
+      "columnName": "agrupador"
+    },
+    {
+      "width": 100,
+      "columnName": "regional"
+    },
+    {
+      "width": 100,
+      "columnName": "provedor"
+    },
+    {
+      "width": 100,
+      "columnName": "status"
+    },
+    {
+      "width": 120,
+      "columnName": "iniMedicao"
+    },
+    {
+      "width": 120,
+      "columnName": "fimMedicao"
+    },
+    {
+      "width": 120,
+      "columnName": "competencia"
+    },
+    {
+      "width": 120,
+      "columnName": "dataEmissao"
+    },
+    {
+      "width": 150,
+      "columnName": "dataVencimento"
+    },
+    {
+      "width": 120,
+      "columnName": "dataCorte"
+    },
+    {
+      "width": 200,
+      "columnName": "tableAction"
+    }
+  ],
+  "redes": [
+    { "value": "MÓVEL", "text": "MÓVEL" },
+    { "value": "FIXA", "text": "FIXA" },
+    { "value": "FIBER", "text": "FIBER" }
+  ],
+  "columnsHistorico": [
+    { "name": "status", "title": "Status" },
+    { "name": "inicio", "title": "Início" },
+    { "name": "fim", "title": "Fim" },
+    { "name": "observacao", "title": "Observação" },
+    { "name": "tableAction", "title": "  " }
+  ]
+}

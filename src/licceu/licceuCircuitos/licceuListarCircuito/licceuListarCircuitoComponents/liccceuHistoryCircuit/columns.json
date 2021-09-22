@@ -1,0 +1,15 @@
+[
+  { "name": "transicao", "title": "Ação" },
+  { "name": "user_name", "title": "Usuário" },
+  { "name": "created_at", "title": "Data" },
+  { "name": "old_status", "title": "Status Antigo" },
+  { "name": "new_status", "title": "Status Novo" },
+  { "name": "old_demand_type", "title": "Tipo Demanda Antigo" },
+  { "name": "new_demand_type", "title": "Tipo Demanda Novo" },
+  { "name": "old_technology", "title": "Tecnologia Antiga" },
+  { "name": "new_technology", "title": "Tecnologia Nova" },
+  { "name": "old_interface", "title": "Interface Antiga" },
+  { "name": "new_interface", "title": "Interface Nova" },
+  { "name": "old_capacity", "title": "Capacidade Antiga" },
+  { "name": "new_capacity", "title": "Capacidade Nova" }
+]

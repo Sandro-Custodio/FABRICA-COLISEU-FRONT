@@ -1,0 +1,64 @@
+{
+  "columns": [
+    {
+      "title": "Contrato Tim",
+      "name": "contrato"
+    },
+    {
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "title": "Grupo",
+      "name": "grupo"
+    },
+    {
+      "title": "Contrato Prov.",
+      "name": "contrato"
+    },
+    {
+      "title": "Objetivo",
+      "name": "objetivo"
+    },
+    {
+      "title": "Detalhe Objeto",
+      "name": "detalhe"
+    },
+    {
+      "title": "Gestor",
+      "name": "gestor"
+    },
+    {
+      "title": "Rede",
+      "name": "rede"
+    },
+    {
+      "title": "Data Assinatura",
+      "name": "data"
+    },
+    {
+      "title": "Início de Vigência",
+      "name": "vigencia"
+    },
+    {
+      "title": "Vigência",
+      "name": "vigencia2"
+    },
+    {
+      "title": "Prazo de Manifestação",
+      "name": "manifestacao"
+    },
+    {
+      "title": "Renovação Automática",
+      "name": "renovacao"
+    },
+    {
+      "title": "Prazo em Meses",
+      "name": "prazo"
+    },
+    {
+      "title": " ",
+      "name": "actions"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+[
+  { "columnName": "txE2eId", "width": 95 },
+  { "columnName": "txTrechoId", "width": 125 },
+  { "columnName": "solucao", "width": 100 },
+  { "columnName": "projeto", "width": 100 },
+  { "columnName": "regional", "width": 100 },
+  { "columnName": "uf", "width": 80 },
+  { "columnName": "ibge", "width": 100 },
+  { "columnName": "cidade", "width": 150 },
+  { "columnName": "endId", "width": 180 },
+  { "columnName": "siteAtendido", "width": 180 },
+  { "columnName": "tecnologia", "width": 180 },
+  { "columnName": "banda", "width": 180 },
+  { "columnName": "siteZ", "width": 180 },
+  { "columnName": "endIdZ", "width": 180 },
+  { "columnName": "ot", "width": 180 },
+  { "columnName": "bandaSolicitada", "width": 180 },
+  { "columnName": "bandaAtendida", "width": 180 },
+  { "columnName": "bandaProjetada", "width": 180 },
+  {
+    "columnName": "tecnologiaAtendida",
+    "width": 180
+  },
+  { "columnName": "txDetalhado", "width": 180 },
+  {
+    "columnName": "txSimplificado",
+    "width": 180
+  },
+  { "columnName": "informacaoQuadro", "width": 180 },
+  { "columnName": "txTrecho", "width": 180 },
+  { "columnName": "vendorMw", "width": 180 },
+  { "columnName": "sitePontaA", "width": 180 },
+  { "columnName": "sitePontaB", "width": 180 },
+  { "columnName": "endIdA", "width": 180 },
+  { "columnName": "endIdB", "width": 180 },
+  { "columnName": "endTrechoId", "width": 180 },
+  { "columnName": "rollout", "width": 180 },
+  { "columnName": "chaveOt", "width": 180 },
+  {
+    "columnName": "status",
+    "width": 180
+  },
+  { "columnName": "hubFoLl", "width": 180 },
+  { "columnName": "novoHubFoLl", "width": 180 },
+  { "columnName": "foRedeMw", "width": 180 },
+  { "columnName": "codOrca", "width": 180 },
+
+  { "columnName": "observacao", "width": 180 }
+]

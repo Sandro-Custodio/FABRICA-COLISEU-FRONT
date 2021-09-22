@@ -1,0 +1,278 @@
+.modal {
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    .modal:before {
+        display: inline-block;
+        vertical-align: middle;
+        content: " ";
+        height: 100%;
+    }
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.multiselect {
+    width: 100%;
+}
+
+.selectBox {
+    position: relative;
+}
+
+.selectBox select {
+    width: 100%;
+    font-weight: bold;
+}
+
+.overSelect {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+#checkboxes {
+    display: none;
+    border: 1px #dadada solid;
+    position: absolute;
+    z-index: 999;
+    width: calc(100% - 30px);
+    padding: 5px;
+    background: #fff;
+    top: 58px;
+}
+
+#checkboxes label {
+    display: flex;
+    align-items: center;
+    padding: 3px;
+    transition: all 0.3s;
+    border-radius: 5px;
+    padding-left: 8px;
+}
+
+#checkboxes label input {
+    margin-top: 0px !important;
+}
+
+#checkboxes label p {
+    margin: 0px !important;
+    padding-left: 8px;
+    transition: all 0.3s;
+}
+
+#checkboxes label:hover {
+    background-color: #1e90ff;
+}
+
+#checkboxes label:hover p {
+    color: #FFF;
+}
+
+.btn-export-config {
+    float: left;
+}
+
+.modal-m {
+    width: 60% !important;
+}
+
+.modal-g2 {
+    width: 75% !important;
+}
+
+.export-actions {
+    height: 500px;
+    padding-top: 150px;
+}
+
+.export-actions div {
+    text-align: center;
+    margin-top: 15px;
+}
+
+.btn-action-export {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grid-model tr div {
+    display: flex;
+    align-items: center;
+}
+
+.grid-model tr div p {
+    margin: 0 !important;
+}
+
+.grid-model .selected,
+.grid-model .selected:hover {
+    background: #b8cfee !important;
+}
+
+.grid-model thead tr th {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    font-weight: bold;
+    border: solid 1px #eee !important;
+}
+
+.grid-col {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.grid-col table {
+    margin-bottom: 0px !important;
+}
+
+#config-export .modal-body {
+    padding: 10px 0px 10px 0px;
+    overflow-y: hidden;
+}
+
+.required {
+    color: red;
+}
+
+.import-ctx {
+    min-height: 600px;
+}
+
+.aj {
+    display: flex;
+}
+
+.div-c {
+    width: 50%;
+}
+
+.div-c:first-of-type {
+    padding-right: 10px;
+}
+
+.div-c:last-of-type {
+    padding-left: 10px;
+}
+
+.div-c table {
+    width: 100%;
+    border: dashed 1px #eee;
+}
+
+.div-c .div-table {
+    height: 250px;
+    overflow-y: auto;
+}
+
+.div-c table td {
+    padding: 5px 15px 5px 15px;
+    border: solid 1px #eee;
+}
+
+.cts-overlay {
+    position: fixed;
+    z-index: 99999;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+#acoes-justificativas .modal-body,
+#import .modal-body {
+    padding: 10px 0px 15px 0px !important;
+    overflow-y: hidden;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    padding: 0px 0px 10px 0px;
+}
+
+.info a {
+    font-weight: bold;
+    font-size: 22px;
+    color: #002f5f;
+    margin-left: 0 !important;
+}
+
+.import-ctx .table-responsive {
+    height: 500px !important;
+}
+
+.import-ctx .table th {
+    border: dashed 1px #eee;
+}
+
+.import-ctx .table thead tr {
+    border-top: dashed 1px #eee;
+}
+
+.import-file {
+    display: none !important;
+}
+
+.div-table table {
+    margin-bottom: 0 !important;
+}
+
+.not-ok {
+    background-color: rgba(255, 0, 0, 0.308) !important;
+}
+
+.ok {
+    background-color: rgba(96, 201, 64, 0.486) !important;
+}
+
+.modal-actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data-type {
+    text-align: left;
+}
+
+.data-types {
+    margin-top: 8px;
+    font-size: 12px;
+    align-items: center;
+    font-weight: bold;
+}
+
+.type {
+    display: flex;
+    align-items: center;
+}
+
+.valid {
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+    margin-top: -3px;
+    background-color: rgba(96, 201, 64, 0.486) !important;
+}
+
+.invalid {
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+    margin-top: -3px;
+    background-color: rgba(255, 0, 0, 0.308) !important;
+}

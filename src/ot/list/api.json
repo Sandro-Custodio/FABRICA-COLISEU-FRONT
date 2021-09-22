@@ -1,0 +1,29 @@
+{
+  "ot_toolbar_icons": [
+    {
+      "icon": "eye",
+      "code": 1,
+      "description": "Visualizar OT"
+    },
+    {
+      "icon": "ban",
+      "code": 2,
+      "description": "Suspender OT"
+    },
+    {
+      "icon": "binoculars",
+      "code": 3,
+      "description": "Visualizar"
+    },
+    {
+      "icon": "file-excel-o",
+      "code": 4,
+      "description": "Exportar projeto E2E para Excel"
+    },
+    {
+      "icon": "microchip",
+      "code": 5,
+      "description": "Listar circuito da OT"
+    }
+  ]
+}

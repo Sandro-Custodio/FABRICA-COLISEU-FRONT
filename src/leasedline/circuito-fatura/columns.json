@@ -1,0 +1,51 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "Circuito",
+      "name": "circuito_id"
+    },
+    {
+      "id": 2,
+      "title": "Agrupador",
+      "name": "group_id_a"
+    },
+    {
+      "id": 3,
+      "title": "Valor",
+      "name": "val_link_c_imp_a"
+    },
+    {
+      "id": 4,
+      "title": "Data de Ativação",
+      "name": "data_ativacao"
+    },
+    {
+      "id": 5,
+      "title": "Id Circuito Fatura",
+      "name": "id_circuit_bill"
+    }
+  ],
+  "columnWidths": [
+    {
+      "columnName": "circuito_id",
+      "width": 220
+    },
+    {
+      "columnName": "group_id_a",
+      "width": 220
+    },
+    {
+      "columnName": "val_link_c_imp_a",
+      "width": 220
+    },
+    {
+      "columnName": "data_ativacao",
+      "width": 220
+    },
+    {
+      "columnName": "id_circuit_bill",
+      "width": 220
+    }
+  ]
+}

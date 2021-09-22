@@ -1,0 +1,16 @@
+{
+  "columns": [
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Circuito Normalizado",
+      "name": "circuito_normalizado"
+    },
+    {
+      "title": "Observação",
+      "name": "observacao"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "columns": [
+    {
+      "title": "Ot",
+      "name": "ots"
+    },
+    {
+      "title": "EndereçoA",
+      "name": "enderecoA"
+    },
+    {
+      "title": "InterfaceA",
+      "name": "interfaceA"
+    },
+    {
+      "title": "EndereçoB",
+      "name": "enderecoB"
+    },
+    {
+      "title": "InterfaceB",
+      "name": "interfaceB"
+    },
+    {
+      "title": "Situação",
+      "name": "situacao"
+    },
+    {
+      "title": "Evt",
+      "name": "evt"
+    },
+    {
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "title": "PMS",
+      "name": "pms"
+    },
+    {
+      "title": "Mês",
+      "name": "mes"
+    },
+    {
+      "title": "Inst",
+      "name": "inst"
+    },
+    {
+      "title": "Proj",
+      "name": "proj"
+    },
+    {
+      "title": "Qtd",
+      "name": "qtd"
+    },
+    {
+      "title": "Pz. Const.",
+      "name": "pzConst"
+    },
+    {
+      "title": "Pz. Ativ.",
+      "name": "pzAtiv"
+    },
+    {
+      "title": "Pz. Resp.",
+      "name": "pzResp"
+    },
+    {
+      "title": "Status",
+      "name": "status"
+    }
+  ],
+  "columnWidths": [
+    { "columnName": "ots", "width": 150 },
+    { "columnName": "enderecoA", "width": 110 },
+    { "columnName": "interfaceA", "width": 110 },
+    { "columnName": "enderecoB", "width": 110 },
+    { "columnName": "interfaceB", "width": 110 },
+    { "columnName": "situacao", "width": 110 },
+    { "columnName": "evt", "width": 140 },
+    { "columnName": "provedor", "width": 110 },
+    { "columnName": "pms", "width": 110 },
+    { "columnName": "mes", "width": 110 },
+    { "columnName": "inst", "width": 110 },
+    { "columnName": "proj", "width": 110 },
+    { "columnName": "qtd", "width": 110 },
+    { "columnName": "pzConst", "width": 110 },
+    { "columnName": "pzAtiv", "width": 110 },
+    { "columnName": "pzResp", "width": 110 },
+    { "columnName": "status", "width": 110 }
+  ]
+}

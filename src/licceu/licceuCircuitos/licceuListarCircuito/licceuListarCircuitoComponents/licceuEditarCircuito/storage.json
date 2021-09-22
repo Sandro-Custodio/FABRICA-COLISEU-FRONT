@@ -1,0 +1,38 @@
+{
+  "status": [
+    { "text": "EM SERVIÇO", "value": "EM SERVIÇO" },
+    { "text": "EM PROJETO", "value": "EM PROJETO" }
+  ],
+  "tecnologia": [
+    { "text": "IP", "value": "IP" },
+    { "text": "TDM", "value": "TDM" },
+    { "text": "ADM", "value": "ADM" }
+  ],
+  "demanda": [
+    { "text": "ACESSO 2G", "value": "ACESSO 2G" },
+    { "text": "ACESSO 3G", "value": "ACESSO 3G" },
+    { "text": "ACESSO 4G", "value": "ACESSO 4G" },
+    { "text": "INTERCONEXÃO", "value": "INTERCONEXÃO" },
+    { "text": "LOJA", "value": "LOJA" },
+    { "text": "CORPORATIVA", "value": "CORPORATIVA" },
+    { "text": "REFILIAÇÃO", "value": "REFILIAÇÃO" },
+    { "text": "SMALL CELL", "value": "SMALL CELL" },
+    { "text": "OUTROS", "value": "OUTROS" }
+  ],
+  "interface": [
+    { "text": "E1", "value": "E1" },
+    { "text": "E3", "value": "E3" },
+    { "text": "FETH", "value": "FETH" },
+    { "text": "GETH", "value": "GETH" },
+    { "text": "STM-1 CH", "value": "STM-1 CH" },
+    { "text": "STM-1 NCH", "value": "STM-1 NCH" }
+  ],
+  "columns": [
+    { "name": "source", "title": "Site A" },
+    { "name": "destination", "title": "Site B" },
+    { "name": "tipo_link", "title": "Tipo Link" },
+    { "name": "link_capacity", "title": "Capacidade Atual (Mbps)" },
+    { "name": "capacidade", "title": "Capacidade Desejada (Mbps)" },
+    { "name": "seg", "title": "Segmento" }
+  ]
+}

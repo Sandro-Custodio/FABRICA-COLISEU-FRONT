@@ -1,0 +1,72 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination__filter {
+  display: flex;
+  max-width: 200px;
+  margin-left: 12px;
+}
+
+.input {
+  max-width: 40px;
+  margin-top: 2px;
+}
+
+.pagination__describe {
+  margin-right: 10px
+}
+
+.total {
+  margin: 0 10px
+}
+
+.page {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.describe {
+  display: flex;
+  align-items: center;
+}
+
+.input-sm {
+  margin-bottom: 10px;
+}
+
+.to-from {
+  display: flex;
+}
+
+.modal {
+  overflow-y: unset;
+}
+
+.modal-body {
+  overflow-y: scroll;
+  height: 76vh;
+}
+
+#licceuAlteracaoMassiva div.modal-body {
+  overflow-y: unset;
+  height: inherit;
+}
+
+
+.licceu-circuito .box-body {
+  height: 100vh;
+}
+
+.slash {
+  margin: 5px 10px;
+  font-weight: bold;
+}
+
+input[type="date"]::-webkit-inner-spin-button {
+  display: none;
+  -webkit-appearance: none;
+}

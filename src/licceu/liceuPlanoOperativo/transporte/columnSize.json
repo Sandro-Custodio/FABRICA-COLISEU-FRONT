@@ -1,0 +1,74 @@
+[
+  { "columnName": "oc", "width": 80 },
+  { "columnName": "status2", "width": 80 },
+  { "columnName": "txE2eId", "width": 80 },
+  { "columnName": "txTrechoId", "width": 80 },
+  { "columnName": "solucao", "width": 80 },
+  { "columnName": "projeto", "width": 180 },
+  { "columnName": "regional", "width": 180 },
+  { "columnName": "uf", "width": 180 },
+  { "columnName": "ibge", "width": 180 },
+  { "columnName": "cidade", "width": 180 },
+  { "columnName": "endId", "width": 180 },
+  { "columnName": "siteAtendido", "width": 180 },
+  { "columnName": "tecnologia", "width": 180 },
+  { "columnName": "banda", "width": 180 },
+  { "columnName": "siteZ", "width": 180 },
+  { "columnName": "endIdZ", "width": 180 },
+  { "columnName": "ot", "width": 180 },
+  { "columnName": "bandaSolicitada", "width": 180 },
+  { "columnName": "bandaAtendida", "width": 180 },
+  { "columnName": "bandaProjetada", "width": 180 },
+  {
+    "columnName": "tecnologiaAtendida",
+    "width": 180
+  },
+  { "columnName": "txDetalhado", "width": 180 },
+  {
+    "columnName": "txSimplificado",
+    "width": 180
+  },
+  { "columnName": "infQuadro", "width": 180 },
+  { "columnName": "txTrecho", "width": 180 },
+  { "columnName": "vendorMw", "width": 180 },
+  { "columnName": "sitePontaA", "width": 180 },
+  { "columnName": "sitePontaB", "width": 180 },
+  { "columnName": "endIdA", "width": 180 },
+  { "columnName": "endIdB", "width": 180 },
+  { "columnName": "endTrechoId", "width": 180 },
+  { "columnName": "rollout", "width": 180 },
+  { "columnName": "chaveOt", "width": 180 },
+  {
+    "columnName": "status",
+    "width": 180
+  },
+  { "columnName": "hubFoLl", "width": 180 },
+  { "columnName": "novoHubFoLl", "width": 180 },
+  { "columnName": "foRedeMw", "width": 180 },
+  { "columnName": "codOrca", "width": 180 },
+
+  { "columnName": "observacao", "width": 180 },
+  { "columnName": "baselineeng", "width": 180 },
+  { "columnName": "baselineimp", "width": 180 },
+  { "columnName": "baselineaco", "width": 180 },
+  { "columnName": "anorollout", "width": 180 },
+
+  { "columnName": "dominio", "width": 180 },
+
+  { "columnName": "datainclusao", "width": 180 },
+  { "columnName": "datarevisao", "width": 180 },
+  { "columnName": "tipocasa", "width": 180 },
+  { "columnName": "tiporollout", "width": 180 },
+  { "columnName": "x", "width": 180 },
+  { "columnName": "sequencia", "width": 180 },
+  { "columnName": "circuito", "width": 180 },
+
+  {
+    "columnName": "interfaceatendido",
+    "width": 180
+  },
+  { "columnName": "vendor", "width": 180 },
+  { "columnName": "statussite", "width": 180 },
+  { "columnName": "localidade", "width": 180 },
+  { "columnName": "enderecofis", "width": 180 }
+]

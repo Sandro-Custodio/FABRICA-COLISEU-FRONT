@@ -1,0 +1,8 @@
+#pedido-cotacao button.btn {
+  margin: 0;
+  width: 100%;
+}
+
+div#ped_cotacao div.tab-content {
+  height: 24em;
+}

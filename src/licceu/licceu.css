@@ -1,0 +1,28 @@
+.login-box button {
+  margin-left: 0px;
+}
+
+.login-box a:hover {
+  cursor: pointer;
+}
+
+.login-logo img {
+  padding-bottom: 8px;
+  width: 27px;
+}
+
+.box-radius {
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.skin-black .wrapper {
+  background: #fff;
+  overflow-y: hidden;
+}
+
+.pie__content {
+  padding: 0 15px !important;
+  display: none;
+}

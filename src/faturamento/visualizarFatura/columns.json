@@ -1,0 +1,116 @@
+{
+  "columns": [
+    {
+      "title": "Rede",
+      "name": "rede"
+    },
+    {
+      "title": "Regional",
+      "name": "regional"
+    },
+    {
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "title": "Agrupador",
+      "name": "agrupador"
+    },
+    {
+      "title": "Mês/Ano de Referência",
+      "name": "dataReferencia"
+    },
+    {
+      "title": "Número da Fatura",
+      "name": "numFatura"
+    },
+    {
+      "title": "Valor da Fatura",
+      "name": "valorFatura"
+    },
+    {
+      "title": "Total Nota Fiscal",
+      "name": "totalNota"
+    },
+    {
+      "title": "Emissão",
+      "name": "emissao"
+    },
+    {
+      "title": "Vencimento",
+      "name": "vencimento"
+    },
+    {
+      "title": "Status",
+      "name": "status"
+    },
+    {
+      "title": "DD Prévio",
+      "name": "ddPrevio"
+    },
+    {
+      "title": " ",
+      "name": "add"
+    }
+  ],
+  "columns2": [
+    {
+      "title": "Grupo",
+      "name": "grupo"
+    },
+    {
+      "title": "Classificação",
+      "name": "classificacao"
+    },
+    {
+      "title": "Condição",
+      "name": "condicao"
+    }
+  ],
+  "columns3": [
+    {
+      "title": "Classificação",
+      "name": "classificacao2"
+    },
+    {
+      "title": "Grupo",
+      "name": "grupo2"
+    },
+    {
+      "title": "Circuito",
+      "name": "circuito"
+    },
+    {
+      "title": "Descrição",
+      "name": "descricao2"
+    },
+    {
+      "title": "Serviço",
+      "name": "servico"
+    },
+    {
+      "title": "Sequencial",
+      "name": "sequencial"
+    },
+    {
+      "title": "Valor com Impostos",
+      "name": "valorComImpostos"
+    },
+    {
+      "title": "Elemento A",
+      "name": "elementoA"
+    },
+    {
+      "title": "Elemento B",
+      "name": "elementoB"
+    },
+    {
+      "title": "Aliquota",
+      "name": "aliquota"
+    },
+    {
+      "title": "Valor ICMS",
+      "name": "valorIcms"
+    }
+  ]
+}

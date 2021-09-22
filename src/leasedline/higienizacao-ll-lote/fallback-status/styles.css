@@ -1,0 +1,7 @@
+#fallback-status div.table-responsive {
+  height: 40vh !important;
+}
+
+#fallback-status .box.box-primary {
+  margin: 10px 0 0
+}

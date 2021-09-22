@@ -1,0 +1,85 @@
+{
+    "provedor_table": [{
+            "name": "vendor_name",
+            "title": "Provedor"
+        },
+        {
+            "name": "sd_code",
+            "title": "SD"
+        },
+        {
+            "name": "sd_status",
+            "title": "SD Status"
+        },
+        {
+            "name": "sd_data",
+            "title": "SD Data"
+        },
+        {
+            "name": "val_link_s_imp",
+            "title": "Valor Mensal (s/ imp.)"
+        },
+        {
+            "name": "circuit_length",
+            "title": "Circuito"
+        },
+        {
+            "name": "actions",
+            "title": "-"
+        }
+    ],
+    "circuito_table": [{
+            "name": "circuito_id",
+            "title": "Circuito"
+        },
+        {
+            "name": "",
+            "title": "Circuito id fatura"
+        },
+
+        {
+            "name": "status",
+            "title": "Status"
+        },
+        {
+            "name": "contrato",
+            "title": "Contrato"
+        },
+        {
+            "name": "data_ativacao",
+            "title": "Ativação"
+        },
+        {
+            "name": "",
+            "title": "Término da Vigência"
+        },
+        {
+            "name": "val_link_s_imp",
+            "title": "Mensalidade (s/imp.)"
+        },
+        {
+            "name": "val_link_c_imp_a",
+            "title": "Mensalidade (c/imp.)"
+        },
+        {
+            "name": "cancel_end_at",
+            "title": "Previsão Desativação"
+        },
+        {
+            "name": "",
+            "title": "Taxa Desativação"
+        },
+        {
+            "name": "multa",
+            "title": "Multa"
+        },
+        {
+            "name": "",
+            "title": "Saving no Ano"
+        },
+        {
+            "name": "",
+            "title": "Observação"
+        }
+    ]
+}

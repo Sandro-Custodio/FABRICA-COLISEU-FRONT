@@ -1,0 +1,8 @@
+[
+    { "columnName": "login", "width": 180 },
+    { "columnName": "name", "width": 180 },
+    { "columnName": "email", "width": 180 },
+    { "columnName": "role_name", "width": 180 },
+    { "columnName": "status", "width": 180 },
+    { "columnName": "actions", "width": 240 }
+]  

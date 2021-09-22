@@ -1,0 +1,238 @@
+{
+  "columns": [
+    {
+      "title": "Mensagem Importação",
+      "name": "message"
+    },
+    {
+      "title": "LL GUID",
+      "name": "ll_guid"
+    },
+    {
+      "title": "Circuito ID",
+      "name": "circuito_id"
+    },
+    {
+      "title": "Provedor",
+      "name": "provedor"
+    },
+    {
+      "title": "Contrato",
+      "name": "contrato"
+    },
+    {
+      "title": "Nova Fidelização",
+      "name": "nova_fidelizacao"
+    },
+    {
+      "title": "Início Fidelização",
+      "name": "inicio_fidelizacao"
+    },
+    {
+      "title": "Taxa Inst sem Impostos",
+      "name": "tx_inst_s_imp"
+    },
+    {
+      "title": "Taxa Inst com Impostos A",
+      "name": "tx_inst_c_imp_a"
+    },
+    {
+      "title": "Taxa Inst com Impostos B",
+      "name": "tx_inst_c_imp_b"
+    },
+    {
+      "title": "Valor sem Impostos",
+      "name": "valor_s_imp"
+    },
+    {
+      "title": "Valor com Impostos A",
+      "name": "valor_c_imp_a"
+    },
+    {
+      "title": "Valor com Impostos B",
+      "name": "valor_c_imp_b"
+    },
+    {
+      "title": "Degrau",
+      "name": "degrau"
+    },
+    {
+      "title": "Agrupador A",
+      "name": "agrupador_a"
+    },
+    {
+      "title": "Agrupador B",
+      "name": "agrupador_b"
+    },
+    {
+      "title": "Observação",
+      "name": "Observacao"
+    },
+    {
+      "title": "Valor Modem Sem Imposto",
+      "name": "valor_modem_s_imp"
+    },
+    {
+      "title": "Valor Modem com Imposto",
+      "name": "valor_modem_c_imp"
+    },
+    {
+      "title": "Classificação Demanda",
+      "name": "classificacao_demanda"
+    },
+    {
+      "title": "Controle LL GUID",
+      "name": "controle_ll_guid"
+    },
+    {
+      "title": "Divulgação",
+      "name": "divulgacao"
+    },
+    {
+      "title": "Rede Normalizada",
+      "name": "rede_normalizada"
+    },
+    {
+      "title": "Motivo",
+      "name": "motivo"
+    },
+    {
+      "title": "Data última atualização de valor",
+      "name": "date_last_att_value"
+    },
+    {
+      "title": "Última mensalidade sem imposto",
+      "name": "last_month_without_fee"
+    },
+    {
+      "title": "Última mensalidade com imposto",
+      "name": "last_month_with_fee"
+    },
+    {
+      "title": "Indice Reajuste",
+      "name": "indice_reajuste"
+    },
+    {
+      "title": "Percentual Reajuste",
+      "name": "percentual_reajuste"
+    }
+  ],
+  "columnWidths": [
+    {
+      "width": 200,
+      "columnName": "message"
+    },
+    {
+      "width": 140,
+      "columnName": "ll_guid"
+    },
+    {
+      "width": 140,
+      "columnName": "circuito_id"
+    },
+    {
+      "width": 140,
+      "columnName": "provedor"
+    },
+    {
+      "width": 140,
+      "columnName": "contrato"
+    },
+    {
+      "width": 140,
+      "columnName": "nova_fidelizacao"
+    },
+    {
+      "width": 140,
+      "columnName": "inicio_fidelizacao"
+    },
+    {
+      "width": 140,
+      "columnName": "tx_inst_s_imp"
+    },
+    {
+      "width": 140,
+      "columnName": "tx_inst_c_imp_a"
+    },
+    {
+      "width": 140,
+      "columnName": "tx_inst_c_imp_b"
+    },
+    {
+      "width": 140,
+      "columnName": "valor_s_imp"
+    },
+    {
+      "width": 140,
+      "columnName": "valor_c_imp_a"
+    },
+    {
+      "width": 140,
+      "columnName": "valor_c_imp_b"
+    },
+    {
+      "width": 140,
+      "columnName": "degrau"
+    },
+    {
+      "width": 140,
+      "columnName": "agrupador_a"
+    },
+    {
+      "width": 140,
+      "columnName": "agrupador_b"
+    },
+    {
+      "width": 140,
+      "columnName": "Observacao"
+    },
+    {
+      "width": 140,
+      "columnName": "valor_modem_s_imp"
+    },
+    {
+      "width": 140,
+      "columnName": "valor_modem_c_imp"
+    },
+    {
+      "width": 180,
+      "columnName": "classificacao_demanda"
+    },
+    {
+      "width": 180,
+      "columnName": "controle_ll_guid"
+    },
+    {
+      "width": 180,
+      "columnName": "divulgacao"
+    },
+    {
+      "width": 180,
+      "columnName": "rede_normalizada"
+    },
+    {
+      "width": 180,
+      "columnName": "motivo"
+    },
+    {
+      "width": 180,
+      "columnName": "date_last_att_value"
+    },
+    {
+      "width": 180,
+      "columnName": "last_month_without_fee"
+    },
+    {
+      "width": 180,
+      "columnName": "last_month_with_fee"
+    },
+    {
+      "width": 180,
+      "columnName": "indice_reajuste"
+    },
+    {
+      "width": 180,
+      "columnName": "percentual_reajuste"
+    }
+  ]
+}

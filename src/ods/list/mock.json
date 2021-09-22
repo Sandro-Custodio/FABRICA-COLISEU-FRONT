@@ -1,0 +1,26 @@
+{
+  "columns": [
+    { "name": "code", "title": "Código" },
+    { "name": "od_code", "title": "SD" },
+    { "name": "od_provedor", "title": "Qtd. Provedores / Provedor" },
+    { "name": "od_status", "title": "Status" },
+    { "name": "od_user_name", "title": "Solicitante" },
+    { "name": "od_area_name", "title": "Área do solicitante" },
+    { "name": "projeto", "title": "Projeto" },
+    { "name": "circuitos", "title": "Qtd. Circuitos" },
+    { "name": "valor", "title": "Valor mensal (c/imp.)" },
+    { "name": "created_at", "title": "Criada em" }
+  ],
+  "columnWidths": [
+    { "columnName": "code", "width": 120 },
+    { "columnName": "od_code", "width": 120 },
+    { "columnName": "od_provedor", "width": 130 },
+    { "columnName": "od_status", "width": 110 },
+    { "columnName": "od_user_name", "width": 100 },
+    { "columnName": "od_area_name", "width": 120 },
+    { "columnName": "projeto", "width": 100 },
+    { "columnName": "circuitos", "width": 120 },
+    { "columnName": "valor", "width": 110 },
+    { "columnName": "created_at", "width": 100 }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  { "name": "project_name", "title": "Nome do Projeto" },
+  { "name": "ano", "title": "Ano" },
+  { "name": "sub_project_name", "title": "Nome" },
+  { "name": "status_name", "title": "Situação" },
+  { "name": "classificacao_nfe", "title": "Classificação TSD" }
+]

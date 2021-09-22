@@ -1,0 +1,20 @@
+{
+  "columnsWidths": [
+    { "columnName": "buttons", "width": 200 },
+    { "columnName": "pms_id", "width": 60 },
+    { "columnName": "request_protocol", "width": 150 },
+    { "columnName": "requested_at", "width": 100 },
+    { "columnName": "vendor", "width": 150 },
+    { "columnName": "monthly_cost", "width": 100 },
+    { "columnName": "installation_cost", "width": 100 },
+    { "columnName": "project_cost", "width": 60 },
+    { "columnName": "month_with_project", "width": 60 },
+    { "columnName": "ins_with_project", "width": 60 },
+    { "columnName": "quantity", "width": 60 },
+    { "columnName": "contract_time", "width": 60 },
+    { "columnName": "activation_time", "width": 60 },
+    { "columnName": "deadline_at", "width": 100 },
+    { "columnName": "evt_status", "width": 150 },
+    { "columnName": "delivered_at", "width": 60 }
+  ]
+}

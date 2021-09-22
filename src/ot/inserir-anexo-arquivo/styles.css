@@ -1,0 +1,19 @@
+.anexo_footer {
+  margin: 1px 5px;
+}
+
+.salvar {
+  margin: 0 10px;
+}
+
+.btn-footer {
+  margin: 0 10px;
+}
+
+.montar-tabelas div.table-responsive {
+  height: 50vh !important;
+}
+
+#anexar .close {
+  display: none !important;
+}

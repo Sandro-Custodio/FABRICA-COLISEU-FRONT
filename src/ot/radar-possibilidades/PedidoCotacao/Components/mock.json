@@ -1,0 +1,147 @@
+{
+  "contratacao": [
+    { "id": "0", "value": "0" },
+    { "id": "1", "value": "1" },
+    { "id": "2", "value": "2" },
+    { "id": "3", "value": "3" },
+    { "id": "4", "value": "4" },
+    { "id": "5", "value": "5" },
+    { "id": "6", "value": "6" },
+    { "id": "7", "value": "7" },
+    { "id": "8", "value": "8" },
+    { "id": "9", "value": "9" },
+    { "id": "10", "value": "10" },
+    { "id": "11", "value": "11" },
+    { "id": "12", "value": "12" },
+    { "id": "26", "value": "26" },
+    { "id": "32", "value": "32" },
+    { "id": "48", "value": "48" },
+    { "id": "60", "value": "60" },
+    { "id": "84", "value": "84" }
+  ],
+  "columns": [
+    {
+      "title": "Destinatário",
+      "name": "addressee"
+    },
+    {
+      "title": "Contato",
+      "name": "contact_name"
+    },
+    {
+      "title": "Email",
+      "name": "contact_mail"
+    }
+  ],
+  "element_a": [
+    {
+      "key": "01",
+      "name": "elemento_id",
+      "text": "Elemento",
+      "placeholder": "elemento_id"
+    },
+    {
+      "key": "02",
+      "name": "endereco",
+      "text": "Endereço",
+      "placeholder": "address"
+    },
+    {
+      "key": "03",
+      "name": "bairro",
+      "text": "Bairro",
+      "placeholder": "bairro"
+    },
+    { "key": "04", "name": "city", "text": "Cidade", "placeholder": "city" },
+    { "key": "05", "name": "uf", "text": "UF", "placeholder": "state" },
+    {
+      "key": "06",
+      "name": "lat",
+      "text": "Latitude",
+      "placeholder": "latitude"
+    },
+    {
+      "key": "07",
+      "name": "long",
+      "text": "Longitude",
+      "placeholder": "longitude"
+    },
+    {
+      "key": "08",
+      "name": "interface_a",
+      "text": "Interface A",
+      "placeholder": "element_interface"
+    }
+  ],
+  "element_b": [
+    {
+      "key": "01",
+      "name": "elemento_id",
+      "text": "Elemento",
+      "placeholder": "elemento_id"
+    },
+    {
+      "key": "02",
+      "name": "endereco",
+      "text": "Endereço",
+      "placeholder": "address"
+    },
+    {
+      "key": "03",
+      "name": "bairro",
+      "text": "Bairro",
+      "placeholder": "bairro"
+    },
+    { "key": "04", "name": "city", "text": "Cidade", "placeholder": "city" },
+    { "key": "05", "name": "uf", "text": "UF", "placeholder": "state" },
+    {
+      "key": "06",
+      "name": "lat",
+      "text": "Latitude",
+      "placeholder": "latitude"
+    },
+    {
+      "key": "07",
+      "name": "long",
+      "text": "Longitude",
+      "placeholder": "longitude"
+    },
+    {
+      "key": "08",
+      "name": "interface_b",
+      "text": "Interface B",
+      "placeholder": "element_interface"
+    }
+  ],
+  "descrition": [
+    {
+      "key": "1",
+      "isField": true,
+      "placeholder": "name",
+      "name": "name",
+      "text": "Velocidade"
+    },
+    {
+      "key": "2",
+      "isField": true,
+      "placeholder": "qt_sublinks",
+      "name": "qt_sublinks",
+      "text": "Quantidade"
+    },
+    {
+      "key": "3",
+      "isField": true,
+      "placeholder": "",
+      "name": "fidelizacao",
+      "text": "Fidelização"
+    },
+    { "key": "4", "isField": false },
+    {
+      "key": "4",
+      "isField": true,
+      "placeholder": "",
+      "name": "remarks",
+      "text": "Inserir Observação"
+    }
+  ]
+}

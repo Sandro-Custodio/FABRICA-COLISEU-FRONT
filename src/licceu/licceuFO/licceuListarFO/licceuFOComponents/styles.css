@@ -1,0 +1,36 @@
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pagination__filter {
+  display: flex;
+  max-width: 200px;
+  margin-left: 12px;
+}
+
+.input {
+  max-width: 40px;
+  margin-top: 2px;
+}
+
+.pagination__describe {
+  margin-right: 10px
+}
+
+.total {
+  margin: 0 10px
+}
+
+.page {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+}
+
+.describe {
+  display: flex;
+  align-items: center;
+}
+

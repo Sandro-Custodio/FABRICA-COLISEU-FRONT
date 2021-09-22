@@ -1,0 +1,11 @@
+.formSolicitarCancelamentoOt div.table-responsive {
+  height: 112px !important;
+}
+
+.solicitarCancelamentoOtList div.modal-body {
+  height: 57vh !important;
+}
+
+textarea.form-control {
+  margin-bottom: 20px;
+}

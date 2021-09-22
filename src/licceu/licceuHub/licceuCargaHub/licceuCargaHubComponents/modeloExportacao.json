@@ -1,0 +1,140 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "ID_LICCEU"
+    },
+    {
+      "id": 2,
+      "title": "REGIONAL_A"
+    },
+    {
+      "id": 3,
+      "title": "UF_A"
+    },
+    {
+      "id": 4,
+      "title": "MUNICIPIO_A"
+    },
+    {
+      "id": 5,
+      "title": "PONTA_A"
+    },
+    {
+      "id": 6,
+      "title": "REGIONAL_B"
+    },
+    {
+      "id": 7,
+      "title": "UF_B"
+    },
+    {
+      "id": 8,
+      "title": "MUNICIPIO_B"
+    },
+    {
+      "id": 9,
+      "title": "PONTA_B"
+    },
+    {
+      "id": 10,
+      "title": "STATUS"
+    },
+    {
+      "id": 11,
+      "title": "CAPACIDADE_SOLICITADA(MBPS)"
+    },
+    {
+      "id": 12,
+      "title": "CAPACIDADE(MBPS)"
+    },
+    {
+      "id": 13,
+      "title": "TIPO_LINK"
+    },
+    {
+      "id": 14,
+      "title": "MODELO"
+    },
+    {
+      "id": 15,
+      "title": "VENDOR/FORNECEDOR_ORIGEM_MW"
+    },
+    {
+      "id": 16,
+      "title": "VENDOR/FORNECEDOR_ORIGEM_FO/LL"
+    },
+    {
+      "id": 17,
+      "title": "VENDOR/FORNECEDOR_DESTINO_FO/LL"
+    },
+    {
+      "id": 18,
+      "title": "VENDOR/FORNECEDOR_DESTINO_MW"
+    },
+    {
+      "id": 19,
+      "title": "TECNOLOGIA"
+    },
+    {
+      "id": 20,
+      "title": "CONCEITO_HUB"
+    },
+    {
+      "id": 21,
+      "title": "INTERFACE"
+    },
+    {
+      "id": 22,
+      "title": "DES_CIRCUITO"
+    },
+    {
+      "id": 23,
+      "title": "ACC_ID"
+    },
+    {
+      "id": 24,
+      "title": "TRAIL_ID"
+    },
+    {
+      "id": 25,
+      "title": "SLOT/PORTA"
+    },
+    {
+      "id": 26,
+      "title": "OT"
+    },
+    {
+      "id": 27,
+      "title": "ENG-TX"
+    },
+    {
+      "id": 28,
+      "title": "ENGENHEIRO RESPONSÁVEL"
+    },
+    {
+      "id": 29,
+      "title": "DEPENDÊNCIA ROTA LD"
+    },
+    {
+      "id": 30,
+      "title": "OBSERVAÇÃO"
+    },
+    {
+      "id": 31,
+      "title": "BANDA MÉDIA ATUAL (COM ETH)"
+    },
+    {
+      "id": 32,
+      "title": "BANDA MÉDIA PROJETADA (COM ETH)"
+    },
+    {
+      "id": 33,
+      "title": "BANDA MÉDIA ATUAL (TODOS ENDID)"
+    },
+    {
+      "id": 34,
+      "title": "BANDA MÉDIA PROJETADA (TODOS ENDID)"
+    }
+  ]
+}

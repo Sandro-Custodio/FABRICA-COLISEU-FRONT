@@ -1,0 +1,37 @@
+{
+"columnsDetails": [
+    {"id": 16, "name": "fo_id", "title": "FO ID" },
+    {"id": 17, "name": "sigla_2g_est1", "title": "Sigla 2G Est. 1" },
+    {"id": 18, "name": "sigla_3g_est1", "title": "Sigla 3G Est. 2" },
+    {"id": 19, "name": "sigla_2g_est2", "title": "Sigla 2G Est. 1" },
+    {"id": 20, "name": "sigla_3g_est2", "title": "Sigla 3G Est. 1" },
+    {"id": 21, "name": "sigla_lte_est1", "title": "Sigla LTE Est. 1" },
+    {"id": 22, "name": "sigla_lte_est2", "title": "Sigla LTE Est. 2" },
+    {"id": 23, "name": "vendor_est1", "title": "Fabricante Est. 1" },
+    {"id": 24, "name": "vendor_est2", "title": "Fabricante Est. 2" },
+    {"id": 25, "name": "modelo_est1", "title": "Modelo Est. 1" },
+    {"id": 26, "name": "modelo_est2", "title": "Modelo Est. 2" },
+    {"id": 27, "name": "uf_est1", "title": "UF Estação" },
+    {"id": 28, "name": "reg_est1", "title": "Regional Estação" },
+    {"id": 29, "name": "slot_porta_est_1", "title": "Slot/Porta Est. 1" },
+    {"id": 30, "name": "slot_porta_est_2", "title": "Slot/Porta Est. 2" }
+  ],
+  "defaultWidthColumnsDetails": [
+    { "columnName": "fo_id", "width": 125 },
+    { "columnName": "sigla_2g_est1", "width": 125 },
+    { "columnName": "sigla_2g_est2", "width": 125 },
+    { "columnName": "sigla_3g_est1", "width": 125 },
+    { "columnName": "sigla_3g_est2", "width": 125 },
+    { "columnName": "sigla_lte_est1", "width": 125 },
+    { "columnName": "sigla_lte_est2", "width": 125 },
+    { "columnName": "vendor_est1", "width": 125 },
+    { "columnName": "vendor_est2", "width": 125 },
+    { "columnName": "modelo_est1", "width": 125 },
+    { "columnName": "modelo_est2", "width": 125 },
+    { "columnName": "uf_est1", "width": 125 },
+    { "columnName": "reg_est1", "width": 125 },
+    { "columnName": "slot_porta_est_1", "width": 125 },
+    { "columnName": "slot_porta_est_2", "width": 125 }
+    
+  ]
+}

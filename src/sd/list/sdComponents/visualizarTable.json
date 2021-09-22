@@ -1,0 +1,124 @@
+{
+  "columns": [
+    {
+      "id": 1,
+      "title": "Circuito",
+      "name": "circuito_id"
+    },
+    {
+      "id": 2,
+      "title": "Circuito id fatura",
+      "name": "id_circuit_bill"
+    },
+    {
+      "id": 3,
+      "title": "Status",
+      "name": "status_description"
+    },
+    {
+      "id": 4,
+      "title": "Contrato",
+      "name": "contrato"
+    },
+    {
+      "id": 5,
+      "title": "Ativação",
+      "name": "ativacao"
+    },
+    {
+      "id": 6,
+      "title": "Término da Vigência",
+      "name": "termino_vigencia"
+    },
+    {
+      "id": 7,
+      "title": "Mensalidade(s/ imp.)",
+      "name": "mensalidade_sem_imposto"
+    },
+    {
+      "id": 8,
+      "title": "Mensalidade(c/ imp.)",
+      "name": "mensalidade_com_imposto"
+    },
+    {
+      "id": 9,
+      "title": "Previsão Desativação",
+      "name": "previsao_desligamento"
+    },
+    {
+      "id": 10,
+      "title": "Taxa Desativação",
+      "name": "taxa_desativacao"
+    },
+    {
+      "id": 11,
+      "title": "Multa",
+      "name": "multa"
+    },
+    {
+      "id": 12,
+      "title": "Saving no Ano",
+      "name": "saving"
+    },
+    {
+      "id": 13,
+      "title": "Observação",
+      "name": "observacao"
+    }
+
+  ],
+  "columnWidths": [
+    {
+      "columnName": "circuito_id",
+      "width": 100
+    },
+    {
+      "columnName": "id_circuit_bill",
+      "width": 100
+    },
+    {
+      "columnName": "status_description",
+      "width": 100
+    },
+    {
+      "columnName": "contrato",
+      "width": 100
+    },
+    {
+      "columnName": "ativacao",
+      "width": 100
+    },
+    {
+      "columnName": "termino_vigencia",
+      "width": 100
+    },
+    {
+      "columnName": "mensalidade_sem_imposto",
+      "width": 100
+    },
+    {
+      "columnName": "mensalidade_com_imposto",
+      "width": 100
+    },
+    {
+      "columnName": "previsao_desligamento",
+      "width": 100
+    },
+    {
+      "columnName": "taxa_desativacao",
+      "width": 100
+    },
+    {
+      "columnName": "multa",
+      "width": 100
+    },
+    {
+      "columnName": "saving",
+      "width": 100
+    },
+    {
+      "columnName": "observacao",
+      "width": 100
+    }
+  ]
+}
